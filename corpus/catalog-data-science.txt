@@ -1,0 +1,16 @@
+Data Science Major Requirements (14.5-15 units)
+
+1. Data Science and Data Analytics 210 (.5), 345, and 385.
+2. Four units in mathematics: Mathematics 110, 115, 205, and 275.
+3. Three units in computer science: Computer Science 111, 204, and 367.
+4. At least 1.5 units in data science and data analytics or humanities electives: chosen from Art 325, Data Analytics and Science 215, English 265, Greek, Latin, and Ancient Mediterranean Studies 249, Media Studies 150, Writing 215.
+5. Disciplinary specialty: 3 units in one approved discipline (e.g., Anthropology, Biology, Chemistry, Economics, Education, Environmental Studies, Geology, Health & Society, Physics, Political Science, Psychology, Sociology, or Sports Analytics).
+6. Data Science and Data Analytics 310 (.5).
+
+Double Counting Policy:
+If students majoring in Data Science or Data Analytics want to major or minor in another discipline, up to four units are allowed to be double counted.
+
+Departmental Honors in Data Science & Data Analytics:
+- Academic Requirement: Cumulative GPA of at least 3.5 and DSDA major GPA of at least 3.5.
+- Application Deadline: Written submission to DSDA chair no later than the last day to add one-unit courses in the final term.
+- Project & Presentation: Original research or thorough exposition presented publicly on- or off-campus.

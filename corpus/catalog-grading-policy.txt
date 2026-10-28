@@ -1,0 +1,18 @@
+Grading Scale and GPA Calculation:
+Beloit College employs a 4.0 grading system: A (4.0), A- (3.7), B+ (3.3), B (3.0), B- (2.7), C+ (2.3), C (2.0), C- (1.7), D+ (1.3), D (1.0), F (0.0).
+- Credit (CR): Grade of "C" or higher; earns credit but excluded from GPA calculation.
+- No Credit (NC): Earned when standard is not met in CR/NC courses.
+- Incomplete (I): Temporary grade for unfinished work due to emergency.
+- Audit (AU): Course attended without credit.
+
+Repeated Courses Policy:
+- Eligibility: Students may repeat a course if they received a grade of "D+" or lower.
+- GPA Impact: Grade and credit from the most recent attempt replace previous attempt in GPA and earned unit calculations. The previous attempt's credit is set to zero.
+- Location Restriction: Applies only to courses taken at Beloit College.
+- Exemptions: Music lessons, ensembles, and repeatable topics courses are exempt.
+
+Incompletes Policy:
+- Eligibility: Granted only for serious illness, injury, or unpreventable emergency occurring in the last two weeks of the semester.
+- Application Deadline: Form must be submitted to the Registrar between two weeks before classes end and the last day of final exams.
+- Completion Deadline: Work must be finished within eight (8) weeks of the last final exam day.
+- Consequence of Non-completion: Unresolved Incompletes automatically turn into an "F" grade after eight weeks.

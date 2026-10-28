@@ -1,0 +1,13 @@
+Departmental Honors in Computer Science
+
+Criteria for Awarding Honors in Computer Science:
+1. Academic Achievement: Cumulative GPA of at least 3.2 overall and a GPA of at least 3.2 in all Computer Science major coursework.
+2. Intention to Apply: Submit written intention to apply for honors, including the list of major courses, to the department chair no later than the last day to add one-unit courses during the student's final on-campus term.
+3. Project: Engage in original research demonstrating thorough knowledge of Computer Science via:
+   - A summer research experience
+   - An internship
+   - An off-campus study course
+   - A Special Project (CSCI 390) of at least 0.5 unit, or a 0.25 unit Special Project expanding on work in CSCI 175 or higher.
+4. Presentation: Present project work to an external audience (on or off campus).
+5. Professional Engagement: Active engagement in the department/discipline and serving as a respectful, professional role model.
+6. Faculty Designation: Approval by the Department of Mathematics and Computer Science faculty confirming independence of thought and intellectual maturity.
