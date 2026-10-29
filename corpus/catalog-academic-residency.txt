@@ -1,3 +1,42 @@
+id: catalog-academic-residency
+title: Course Catalog: Miller Upton Programs
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 190
+retrieved: 2026-10-29
+------------------------------------------------------------
+[page 190]
+
+Academic Residencies
+The Scott Crom Visiting Philosopher Program brings distinguished and infuential philosophers to campus
+for two days of talks, discussions, and classroom visits. Scott Crom was a beloved professor of philosophy at
+Beloit from 1954 to 1993. The series, established in 2010, is made possible by gifts from John Selzer ’77 and
+Roy J. Schneiderman ’77.
+The Beloit Executives-in-Residence Program is a powerful career development resource for Beloit College
+students. Beloit Executives-in-Residence have signifcant experience in the for-proft, professional world,
+and while in residence, they share their experience with students, faculty, and staf. Beloit Executives-in-
+Residence teach courses in their areas of expertise (e.g. leadership, entrepreneurship, etc) and engage
+students through advising support and career coaching. As current or former senior leaders in organizations,
+they know frsthand what it takes to reach the top ranks in the business world. As industry experts and
+entrepreneurs, they take students from the classroom to the city to the world.
+The Victor E. Ferrall, Jr. Endowed Artists-in-Residence Program was inaugurated in 2001 to honor the
+college’s ninth president. The program brings distinguished visual or performing artists to Beloit to teach,
+direct workshops, and perform or exhibit works. During the residency, the visual artist’s work, or work
+created by collaborating students, is presented in an exhibition at the Wright Museum of Art. Ferrall
+Residents in the visual arts visit the college every other year (alternating with the Ginsberg Residency),
+whereas Ferrall Residents in music and the performing arts visit the college every year.
+The Ginsberg Family Endowed Artists-in-Residence Program was established in 2003 with a gift from
+alumnus Stuart Ginsberg ’82 and his wife, Lisa, to enhance Beloit’s programs in the visual arts. The Ginsberg
+Residency brings distinguished, practicing artists to campus to teach, conduct workshops, and perform or
+exhibit works.
+Each year, the Lois and Willard Mackey Chair in Creative Writing brings an author of distinction to the
+Beloit College campus for a half semester to teach an advanced course in creative writing. The program was
+initiated in 1989 with a gift from Willard C. Mackey ’47 in honor of his wife Lois.
+The Ousley Scholar-in-Residence is named for Grace Ousley, the frst African-American woman to graduate
+from Beloit College in 1904. The Ousley Scholar is someone whose work demonstrates a commitment to the
+theory and practice of social justice. Ousley Scholars are early career scholars, activists, organizers, and/or
+intellectuals who discuss their work with students and faculty/staf. Support for the residency comes from
+the Weissberg Program in Human Rights and Social Justice and is presented through the Ofce of Student
+Success, Equity, & Community.
 The Miller Upton Programs, named for Beloit’s sixth president, bring together leading scholars, young
 faculty, and promising students from around the world to examine issues related to increasing the wealth
 and well-being of nations. Residing in the college’s economics department, the program has as its
@@ -7,4 +46,15 @@ faculty, students, and alumni in a consideration of the ideas, institutions, and
 promote freedom and prosperity. The program includes a special fund for student-centered intellectual
 development and networking, senior year scholarships for talented international students, high-profle
 internships for exceptional students, and a fall senior seminar capstone course for all senior economics
-majors that focuses on ideas presented in the Upton Forum. 
+majors that focuses on ideas presented in the Upton Forum.
+The Weissberg Program brings to campus a distinguished individual who has made important contributions
+to understanding and defending human rights on the international stage to serve as the Weissberg Chair
+in Human Rights and Social Justice. The Weissberg Chair delivers a major public talk, participates in a
+scholarly panel, addresses classes, and interacts with students and faculty in a variety of formal and informal
+settings. Established in 1999 through the generous support of donor Marvin Weissberg (Hon.’05), parent
+of a Beloit College graduate, the program originally focused on international studies. In 2008, it formally
+shifted its focus to human rights and expanded to include a scholarship program for international students,
+job-shadowing, summer grants for hands-on engagement with human rights, a fellows program for recent
+graduates, and a fall forum on career paths.
+TABLE OF CONTENTS
+190

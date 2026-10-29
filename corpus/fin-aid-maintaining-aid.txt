@@ -1,11 +1,18 @@
-FAFSA and Aid Renewal:
-- FAFSA Deadline: Continuing students are recommended to complete the FAFSA annually by January 1.
-- Duration Limit: Beloit College scholarships and grants are locked in for a maximum of eight (8) semesters.
-- Academic Performance: Academic performance and course completion are evaluated at the end of each semester to maintain federal, state, and institutional aid.
-- Course Withdrawal: Withdrawing while a term is in session may result in losing a portion of financial aid.
-
-Enrollment Levels for Financial Aid:
-- Full-time: 3.0+ units
-- Three-quarter time: 2.25 - 2.99 units
-- Half-time: 1.5 - 2.24 units
-- Less than half-time: 0.01 - 1.49 units
+id: fin-aid-maintaining-aid
+title: Financial Aid: Maintaining Aid
+source: https://www.beloit.edu/offices/financial-aid/maintaining-aid/
+kind: html pages N/A
+retrieved: 2026-10-29
+------------------------------------------------------------
+Related Links
+Maintaining Aid
+Plan ahead and keep yourself informed!
+Continuing students are encouraged to complete the FAFSA for each academic year to maximize your financial aid eligibility. Our recommended deadline is January 1 of each year.
+Once students are awarded a scholarship or grant by Beloit College, the awards are locked in for eight semesters. But, there are a few stipulations. For example, we expect students to complete their courses each semester in order to keep their financial aid. Students who withdraw while the term is still in session may lose a portion of their financial aid. Additionally, there are academic requirements to renew your federal, state and institutional aid. We evaluate students’ academic performance at the end of each semester to ensure students are meeting our requirements.
+Enrollment Levels for Financial Aid
+- Full time: 3+ units
+- Three-quarter time: 2.25-2.99 units
+- Half time: 1.5-2.24 units
+- Less than half time: .01-1.49 units
+Did you know?
+In most cases, students are required to be enrolled full time in order to keep their Beloit scholarships and grants. Students who are in their final semester, non-traditional students, or students with documented disabilities may be permitted to enroll less than full time but it must be approved both by the Financial Aid Office and the Registrar’s Office. Financial Aid programs will be prorated according to the enrollment status.

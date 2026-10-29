@@ -183,6 +183,32 @@ def tidy(t):
     t = re.sub(r"\n{3,}", "\n\n", t)
     return t.strip()
 
+def tidy(t):
+    if not t:
+        return ""
+
+    # 1. First convert non-breaking spaces (\xa0) to standard spaces so exact matching works
+    t = t.replace("\xa0", " ")
+
+    # 2. Strip out all known header and TOC variations
+    phrases_to_remove = [
+        "2025-2027 BELOIT COLLEGE CATALOG",
+        "BELOIT COLLEGE CATALOG 2025-2027",
+        "2024-2026 BELOIT COLLEGE CATALOG",
+        "BELOIT COLLEGE CATALOG 2024-2026",
+        "Click here to return to Table of Contents ii.",
+        "Click here to return to Table of Contents i.",
+        "Click here to return to Table of Contents",
+    ]
+    for phrase in phrases_to_remove:
+        t = t.replace(phrase, "")
+
+    # 3. Professor's original whitespace cleanup
+    t = t.replace("\r\n", "\n")
+    t = re.sub(r"[ \t]+", " ", t)
+    t = re.sub(r" *\n *", "\n", t)
+    t = re.sub(r"\n{3,}", "\n\n", t)
+    return t.strip()
 
 def main():
     ap = argparse.ArgumentParser()

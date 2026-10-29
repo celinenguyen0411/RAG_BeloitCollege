@@ -1,13 +1,107 @@
-General Graduation Criteria:
-- Total Units & GPA: Must complete at least 31 units of earned credit with a cumulative GPA of at least 2.000, and a major GPA of at least 2.000.
-- Major & Capstone: Completion of a departmental/interdisciplinary major and a Capstone experience (0.5 or 1 unit, taken after the 4th semester).
-- Catalog Choice: Students may choose degree requirements from the catalog at entrance, major declaration, or graduation.
+id: registrar-graduation-requirements
+title: Registrar: College Graduation & Degree Requirements
+source: https://www.beloit.edu/offices/registrar/graduation-requirements/
+kind: html pages N/A
+retrieved: 2026-10-29
+------------------------------------------------------------
+Related Links
+Graduation Requirements
+Graduation Requirements in a nutshell:
+- Completion of the writing requirement. (“W”)
+- Completion of the quantitative reasoning requirement. (“Q”)
+- Completion of the intercultural literacy requirement. (“C”)
+- Completion of the liberal arts breadth requirements - the five “Domains”. (“1S”, “2A”, “3B”, “4U”, and “5T”)
+- Completion of the experience requirement. (“E”)
 
-Skills & Liberal Arts Breadth (Domains):
-- Skills Requirements: Must complete Writing ("W"), Quantitative Reasoning ("Q"), and Intercultural Literacy ("C") across 5 different courses.
-- Domain Requirements: Must complete 5 Liberal Arts Breadth Domains (1S, 2A, 3B, 4U, 5T) normally by the end of the 4th semester. Each domain must use a different course prefix (e.g., PSYC, BIOL, HIST).
-- AP/IB Policy Restriction: AP, IB, and GCE A-level credits CANNOT be used to satisfy Skills (W, Q, C) or Domain requirements.
+- Students who entered before Spring 2023 may alternatively complete the liberal arts in practice requirement. (“L1”, “L2”, or “L3”)
+- Completion of a capstone experience. (“CP”)
+- Completion of a departmental or interdisciplinary major, with a cumulative grade point average of at least C (2.000) in all courses in the major.
+- Completion of at least 31 units of earned credit, with a cumulative grade point average of at least C (2.000) in all Beloit courses attempted.
+For detailed information, please review the current catalog and graduation requirements checklist.
+Catalog Choice
+A student may choose to be governed by the degree requirements enumerated in any one of the following three catalogs:
+- the catalog at the time of entrance
+- the catalog at the time of declaration of major
+- the catalog at the time of graduation
+The writing, quantitative reasoning, and intercultural literacy requirements must be satisfied by five different courses.
+AP, IB, GCE A-level credits may not be used to satisfy these requirements.
+All students must complete a minimum of 3 designated writing courses. The writing, quantitative reasoning, and intercultural literacy requirements must all be satisfied by different courses.
+Qualities of these courses:
+- Students engage in substantial writing practice by completing multiple assignments/activities with a writing component.
+- Instructors use classroom time, design assignments, and provide activities to address writing strategies and outcomes.
+- Students draft and write in response to instructor feedback.
+All students must complete a minimum of 1 designated quantitative reasoning course. The writing, quantitative reasoning, and intercultural literacy requirements must all be satisfied by different courses.
+Qualities of these courses:
+- Students engage in multiple assignments/activities with a quantitative reasoning component.
+- Instructors use classroom time, design assignments, and provide activities related to quantitative strategies and outcomes.
+- Students revisit and improve quantitative reasoning skills in response to instructor feedback.
+All students must complete a minimum of 1 designated intercultural literacy course. The writing, quantitative reasoning, and intercultural literacy requirements must all be satisfied by different courses.
+Qualities of these courses:
+- Students’ awareness of their political, social, and cultural locations and the ways in which their cultural lenses affect how they understand and operate in the world is increased.
+- Students engage in multiple assignments/activities with an intercultural literacy component.
+- Instructors use classroom time, design assignments, and provide activities to advance intercultural literacy.
+- Students have opportunities to reflect on the development of intercultural literacy as a lifelong process.
+These 5 requirements, where a requirement is understood as .75 unit or 2 courses, should normally be completed by the end of the student’s fourth semester. Students may not be granted junior status until they have completed these requirements.
+AP, IB, GCE A-level credits may not be used to satisfy these requirements.
+Each domain requirement must be satisfied by a different course prefix (e.g., PSYC, BIOL, HIST, CRIS).
+This domain concerns the systems that provide the foundations for communication and discourse, scientific inquiry, and reasoning itself. Through regular practice, students begin to learn the rules of the system and how they can use them as tools. In these courses, students will recognize:
+- the coherence of the system they are studying
+- that they are working in a system that is one among many
+- that they work with an incomplete understanding of the system that can be extended through further study and practice, and
+- that the rules of the system have a purpose as tools and the system as a whole has a purpose that allows for higher level thinking.
+Examples of Systems courses may include mathematics, music theory, logic, and introductory modern and classical languages.
+This domain concerns the intellectual processes and techniques used to generate a creative product. The learning goals of courses in this domain include:
+- understanding and practicing basic skills, including technique and research, that allow students to participate in their chosen medium,
+- recognizing the productive discomforts of creative risk-taking and experimentation
+- considering the complex relationship between audiences and artistic work
+- engaging new processes for the generation and development of work, and
+- developing and practicing self-assessment and peer critique through reflection and engagement with the classroom community.
+Examples of Artistic and Creative Practices courses may include courses in computer visualization, entrepreneurship, dance technique, visual arts, music technique, creative writing, and theatre.
+This domain concerns social analysis as a way of understanding human behavior. Students explore approaches and models that enhance our understanding of human behavior within a variety of cultural and social contexts, both contemporary and historical. This domain encompasses a range of methodological approaches, both qualitative and quantitative. Typically, courses offer theoretical/analytical approaches to the study of human behavior that relate to empirical data. These courses may also address the implications of social science research for public policy formation.
+Examples of Behavior courses may include history, anthropology, religious studies, economics, and political science.
+This domain concerns scientific inquiry as an approach to comprehending the physical and biological universe. In these courses, students formulate and test hypotheses about the physical and biological universe by gathering, analyzing, and interpreting empirical data in laboratory and/or field settings. Students develop abilities to evaluate scientific evidence and may also develop an understanding of the applications of science for local, national, and global issues.
+Examples of Universe courses are those that emphasize scientific inquiry in the study of the physical and biological sciences and biologically oriented anthropology and psychology.
+This domain concerns the study and critical analysis of texts, examining the connections and coherence among their parts and the cultural, social, philosophical, and/or historical contexts from which they stem. Students learn how to engage texts, both as reader and respondent, and they develop the interpretative and analytic skills necessary for responsible engagement with texts.
+Examples of Textual courses may include literature, philosophy, history, and social sciences.
+All students complete the Experience requirement (E), usually during their sophomore or junior year. Complementing their participation in AMP, Schools, and Capstones, these experiences beyond the traditional classroom enhance students’ career readiness. Students connect these experiences with their classroom learning and transfer the skills developed in these experiences into other settings. Students may find existing activities or design their own in collaboration with faculty or staff.
+To meet the Experience requirement, experiences must include all of the following features:
+- Immersion. Substantial experience(s) featuring student-driven activity and/or immersive engagement in a new setting.
+- Application of Skills. Application of knowledge and skills in context(s) beyond the traditional classroom.
+- Connection with Others. Engagement with communities, audiences, and/or professionals beyond the traditional classroom.
+- Reflection. Reflection on the experience.
+Note that experiences beyond the traditional classroom do not need to occur off-campus.
+The Experience requirement may be met in any one of five ways. The experience must total the equivalent of at least 1 unit of academic credit, although earning academic credit is not required.
+Students engage in a substantial research or creative project, especially in the junior or senior year. Research may take one of many forms, depending on the discipline and is especially valuable for students who may continue in a research-oriented career or graduate study. Students who wish to earn academic credit for their work may sign up for a Special Project with an E designation with a faculty or staff sponsor. This option carries a department/program prefix. Must be equivalent to 1 unit of credit.
+Students who complete the Experience Requirement in this way should submit the Experience Requirement completion form to the Registrar’s Office.
+Internships may take place on- or off-campus and may be credit-bearing or not. Some campus jobs may be pre-designated as E, and others may be converted to E activities in collaboration with faculty or staff. Off-campus credit-bearing internships require a Beloit Faculty/Staff Sponsor. Students register for PRAX 200 or 201. Credit may be accumulated over multiple semesters: 90-150 hours = 1 unit; 45-89 hours = .5 unit; etc.
+Students who complete the Experience Requirement with a non-credit-bearing internship should submit the Experience Requirement completion form to the Registrar’s Office.
+Semester-long study abroad fulfills the Experience Requirement as long as students reflect on the experience by either completing the in-country reflection course, PRAX 209: Global Experience in Action, or by presenting about their experiences in the Beloit & Beyond Symposium or Student Symposium. Alternative reflection activities may be proposed to the Global Experience Office. Completing a short-term Global Experience Seminar in the summer also fulfills the Experience Requirement. Complete the E Requirement Form to receive your credit on your transcript.
+Students connect one or more experiences beyond the traditional classroom with their academic development. These experiences may include co-curriculars, work, off-campus activities, campus or community leadership, and/or internships or off-campus study not formally arranged through Beloit College. In the synthesis, students reflect on their experiences through a culminating project: a public presentation, exhibit, publication, or performance. Overseen by faculty or staff sponsor. Activities contributing to the synthesis should be the equivalent to at least one unit of credit, although earned credit is not required.
+Students who complete the Experience Requirement in this way should submit the Experience Requirement completion form to the Registrar’s Office.
+Completion of a capstone experience (.5 or 1 unit of academic credit). (“CP” in course
+descriptions)
 
-Experience (E) & Capstone Rules:
-- Experience Requirement (E): Must complete at least 1 unit equivalent via E-courses, research, internship, study abroad, or synthesized experiences.
-- Double-Counting Rule: A single course/unit CANNOT simultaneously satisfy both the Capstone requirement and the Experience requirement.
+Capstone experiences occur after the fourth semester, typically in a student’s final year. Each program or department identifies one or more opportunities for its majors to fulfill the capstone requirement. While some capstones may qualify as E-designated courses, a single capstone unit may not simultaneously satisfy both the Experience requirement and the capstone requirement.
+Degrees Offered
+The Bachelor of Arts and Bachelor of Science degrees are conferred by Beloit College upon completion of the prescribed requirements.
+- The degree normally awarded is that of Bachelor of Arts.
+- Those whose major field of concentration is in the natural sciences (biology, biochemistry, chemistry, geology, and physics) may, however, elect to receive the Bachelor of Science degree if they present a minimum of 4 units in science and/or mathematics and/or computer science outside their major department.
+- Students whose major field of concentration is mathematics or computer science may elect to receive the Bachelor of Science degree if they present a minimum of 4 units in the natural sciences.
+- Students whose major field of concentration is health and society or health sciences may elect to receive the Bachelor of Science degree if they present a minimum of 8 units in the natural sciences and/or mathematics and/or computer science.
+This election is normally made at the time of the selection of the major field of concentration and must be made prior to the beginning of the senior year.
+Degree Expectations
+- Students will be expected to complete at least 2 units (or equivalent non-credit-bearing activities) involving study or experience of a language and/or culture not their own, and of the relations between nations or other global entities in a global context.
+- Students will be expected to complete a My Achievement Plan (MAP) during their sophomore year in consultation with their advisor.
+Graduation Honors
+Departmental honors work offers the promising student individual counsel and supervision in the accomplishment of a creative or scholarly project, pursued with that intensity and freedom which is seldom possible in the classroom. Intended to encourage and reward independence of thought, intellectual maturity, and distinguished academic achievement, independent study leading to departmental honors is offered by all departments of the College.
+Honors work is open to any student who, in the judgment of the department concerned, is promising enough to do it adequately, has earned at least a ‘B’ average in the major, and has completed six terms of credit work.
+Departmental honors work centers upon the writing of a thesis or the undertaking and satisfactory completion of some creative or scholarly project approved by the department concerned. Departments may also require an examination and other requirements, and may withhold the awarding of honors if the student’s work is not of honors quality.
+Requirements for departmental honors: (a) the consent of the department chair, normally given not later than the beginning of the first term of the senior year, and reported by the department chair to the registrar not later than two weeks after the opening of that term; (b) a minimum of one and a maximum of two courses of honors work to be completed for credit, and to be recorded as departmental honors. Recognition of achievement in departmental honors is recorded on the student’s permanent record. The chair will furnish the registrar with the names of those students to whom departmental honors are to be awarded. Those who do not receive honors may be given course credit for their work.
+Graduation with honors is determined by the student’s Beloit College cumulative grade point average, computed at the time of graduation. To be graduated cum laude, a student is required to have earned a grade point average of 3.400; to be graduated magna cum laude, a student is required to have earned a grade point average of 3.600; to be graduated summa cum laude, a student is required to have earned a grade point average of 3.800. Such honors are recorded on the student’s diploma and permanent record.
+Common Graduation Questions
+If you are a student who plans to graduate in spring and did not receive a graduation intent form from the Registrar’s Office in the fall term of your senior year, you should come to the Registrar’s Office and request a copy.
+If you are off campus in the fall, you will have a graduation intent form sent to your campus mailbox in January, or you may print a Graduation Intent form, fill it out and email it to registrar@beloit.edu or mail it to:
+Registrar’s Office
+Beloit College
+700 College Street
+Beloit, WI 53511

@@ -1,16 +1,108 @@
-Data Science Major Requirements (14.5-15 units)
+id: catalog-data-science
+title: Course Catalog: Data Science Major
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 57-58
+retrieved: 2026-10-29
+------------------------------------------------------------
+[page 57]
 
+b. Biology: one 100-level biology course and 247; either 215 or 372.
+c. Chemistry: 117 and 220, and one chosen from 225, 240, 245, or 300.
+d. Economics: 199, 211, 251 (one chosen from 271, 302, or 303 is recommended).
+e. Education and Youth Studies: 201, 255, 256, and 306.
+f. Environmental Studies: one laboratory science course, one statistics or quantitative course from any
+discipline, and Environmental Studies 258.
+g. Geology: 100 or 110; one statistics or quantitative course from any discipline; one chosen from
+Geology 230, 235, or 245, or Environmental Studies 258, with a geology project.
+h. Health and Society: 140, one statistics or quantitative course from any discipline, and Biology 215.
+i. Physics (4 units): Mathematics 115; Physics 101 and 335; either Physics 210 or 345.
+j. Political Science: 110 and 201; either 207 or 215.
+k. Psychology: 100, 161, 162.
+l. Sociology: either 100 or 150; 205 and 211.
+m. Sports Analytics: Economics 199, 202, 251, 300.
+6. Data Science and Data Analytics 310 (.5)
+If students majoring in data science or data analytics want to major or minor in another discipline, up to
+four units are allowed to be double counted.
+Data Science Major (14.5-15 units)
 1. Data Science and Data Analytics 210 (.5), 345, and 385.
 2. Four units in mathematics: Mathematics 110, 115, 205, and 275.
 3. Three units in computer science: Computer Science 111, 204, and 367.
-4. At least 1.5 units in data science and data analytics or humanities electives: chosen from Art 325, Data Analytics and Science 215, English 265, Greek, Latin, and Ancient Mediterranean Studies 249, Media Studies 150, Writing 215.
-5. Disciplinary specialty: 3 units in one approved discipline (e.g., Anthropology, Biology, Chemistry, Economics, Education, Environmental Studies, Geology, Health & Society, Physics, Political Science, Psychology, Sociology, or Sports Analytics).
+4. At least 1.5 units in data science and data analytics or the humanities, chosen from Art 325, Data
+Analytics and Science 215, English 265, Greek, Latin, and Ancient Mediterranean Studies 249, Media
+Studies 150, Writing 215.
+5. One disciplinary specialty chosen from the following (3 units):
+a. Anthropology: Two units chosen from any 100-level anthropology courses and 240 (201 and 225 are
+recommended).
+b. Biology: one 100-level biology course and 247; either 215 or 372.
+c. Chemistry: 117 and 220, and one chosen from 225, 240, 245, or 300.
+d. Economics: 199, 211, 251 (one from 271, 302, or 303 is recommended).
+e. Education and Youth Studies: 201, 255, 256, and 306.
+f. Environmental Studies: one laboratory science course, one statistics or quantitative course from any
+discipline, and Environmental Studies 258.
+g. Geology: 100 or 110; one statistics or quantitative course from any discipline; one chosen from
+Geology 230, 235, or 245, or Environmental Studies 258, with a geology project.
+h. Health and Society: 140, one statistics or quantitative course from any discipline, and Biology 215.
+i. Physics: Physics 101 and 335; either Physics 210 or 345.
+j. Political Science: 110 and 201; either 207 or 215.
+k. Psychology: 100, 161, 162.
+l. Sociology: either 100 or 150; 205 and 211.
+m. Sports Analytics: Economics 199, 202, 251, 300.
 6. Data Science and Data Analytics 310 (.5).
+If students majoring in data science or data analytics want to major or minor in another discipline, up to four
+units are allowed to be double counted.
+TABLE OF CONTENTS
+57
 
-Double Counting Policy:
-If students majoring in Data Science or Data Analytics want to major or minor in another discipline, up to four units are allowed to be double counted.
+[page 58]
 
-Departmental Honors in Data Science & Data Analytics:
-- Academic Requirement: Cumulative GPA of at least 3.5 and DSDA major GPA of at least 3.5.
-- Application Deadline: Written submission to DSDA chair no later than the last day to add one-unit courses in the final term.
-- Project & Presentation: Original research or thorough exposition presented publicly on- or off-campus.
+Departmental Honors in Data Science & Data Analytics
+Students may apply to be considered for departmental honors if they have:
+1. Academic Achievement: The candidate must demonstrate a high academic performance across the
+college (Cumulative GPA of at least 3.5) and in DSDA (at least 3.5 GPA in major)
+2. Intention to apply: The candidate must submit a written intention to apply for honors, including the list
+of courses that satisfy the requirements for the major to the chair of the DSDA program no later than
+the last day to add one-unit courses for the last on-campus term as a regular full-time student.
+3. Project: An honors student in DSDA either engages in original research or exposits and demonstrates
+thorough knowledge of the feld done by others. The project may be a summer research experience or
+similar work done outside of the curriculum.
+Presentation: An honors student in DSDA must present their work to a public audience on- or of-campus.
+Data Science & Data Analytics Courses
+DSDA 210. Introduction to Data Science and Data Analytics (.5). In this course students learn what data
+work involves, including a discussion of data ethics, and get introduced to popular data tools such as R,
+Tableau, SQL. Students also learn what a career in data work looks like, and they get to connect with an
+alumnus/a in data science/analytics to learn more about the feld from a practitioner.
+DSDA 215. Data Visualization (.5). Data visualization is the process by which information is displayed in
+graphical form, to investigate patterns in datasets and communicate results. This course covers methods
+of data visualization, centering on two areas: data visualization as exploration and data visualization as
+communication. Students discuss univariate, bivariate, and multivariate comparisons and use multiple
+programs to generate visualizations. Each student will create a fnal portfolio project on a topic of their
+choice. Prerequisite: none, but preference given to data science and data analytics majors.
+DSDA 310. Senior Seminar in Data Science and Data Analytics: Harnessing Data for the Common Good
+(.5). As the senior seminar in data science and data analytics, this course provides a synthesis of concepts
+and skills learned by DSDA majors and minors during their time at Beloit. Afliate faculty in departments
+across the college discuss the importance and meaning of data in their disciplines. Students complete a
+senior portfolio showcasing their work in data science and analytics and preparing for post-Beloit education
+and employment. (CP) Prerequisite: senior standing.
+DSDA 345. Data Mining (1). This course discusses several data mining techniques to identify novel patterns
+from large scale databases that might not be available at the current level of process. Topics related to data
+processing, data visualization, data exploration, prediction, classifcation, anomaly detection, association
+analysis, and clustering are covered. Students work on several projects in order to employ data mining tools
+and techniques such as decision trees, support vector machine, Bayesian classifers, and neural networks-
+mean clustering to solve some problems in the feld of data science. Ofered odd years, spring semester.
+Prerequisite: junior standing and Computer Science 204. Recommended: Mathematics 205 and 275.
+DSDA 370. Special Topics in Data Science/Data Analytics (.25 - 1). Special topic in data science/analytics
+as chosen by instructor. Depending on the instructor and course content, prerequisites vary, but normally
+students should have fnished at least CSCI 111 “Intro to Programming”, and one intro-level statistics or
+quantitative methods course.
+DSDA 385. Machine Learning Capstone (1). An introduction to the three types of machine learning: 1)
+supervised learning, 2) unsupervised learning, and 3) reinforcement learning. Students work individually or
+in teams on real world datasets from diferent felds to implement machine learning algorithms/approaches
+and evaluate their performance, including presentations of work oriented to audiences in the related feld.
+Students study professional, ethical, and social issues related to data science. Python is used as the main
+programming language in this course. (CP) Ofered even years, spring semester. Prerequisite: Data Science
+and Data Analytics 345.
+DSDA 386. Data Clinic Capstone (.5-1). Students work on a real data project for a “client” under the supervi-
+sion and guidance of a faculty member. This project counts as a capstone experience. Prerequisites: at least
+junior status.
+TABLE OF CONTENTS
+58

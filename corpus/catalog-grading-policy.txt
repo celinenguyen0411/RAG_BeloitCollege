@@ -1,18 +1,108 @@
-Grading Scale and GPA Calculation:
-Beloit College employs a 4.0 grading system: A (4.0), A- (3.7), B+ (3.3), B (3.0), B- (2.7), C+ (2.3), C (2.0), C- (1.7), D+ (1.3), D (1.0), F (0.0).
-- Credit (CR): Grade of "C" or higher; earns credit but excluded from GPA calculation.
-- No Credit (NC): Earned when standard is not met in CR/NC courses.
-- Incomplete (I): Temporary grade for unfinished work due to emergency.
-- Audit (AU): Course attended without credit.
+id: catalog-grading-policy
+title: Course Catalog: Grading System and Incompletes
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 16-17
+retrieved: 2026-10-29
+------------------------------------------------------------
+[page 16]
 
-Repeated Courses Policy:
-- Eligibility: Students may repeat a course if they received a grade of "D+" or lower.
-- GPA Impact: Grade and credit from the most recent attempt replace previous attempt in GPA and earned unit calculations. The previous attempt's credit is set to zero.
-- Location Restriction: Applies only to courses taken at Beloit College.
-- Exemptions: Music lessons, ensembles, and repeatable topics courses are exempt.
+Grading
+Range of Grades: Grades are awarded within a range from “A” through “F,” in which “A” signifes unusual abil-
+ity and distinctive achievement; “B” signifes articulate, above-average performance; “C” signifes satisfactory
+performance; “C-”, “D+”, and “D” signify passing work below the standard required for graduation; and “F”
+signifes failure to achieve credit.
+Beloit College employs a 4.0 grading system. Grade points per unit are awarded as follows: A (4.0), A- (3.7),
+B+ (3.3), B (3.0), B- (2.7), C+ (2.3), C (2.0), C- (1.7), D+ (1.3), D (1.0), F (0.0).
+Grades in all courses at Beloit College shall be included in the computation of the cumulative grade point
+average, with the following exceptions: a) courses designated CR/NC, as announced prior to the course
+ofering; b) repeated courses; c) courses taken as part of a study abroad program approved through the
+Committee on International Education.
+Students who complete graded courses at Beloit College prior to matriculation as a degree-seeking student
+may choose to convert their grade from the assigned letter grade to CR/NC at any point prior to the
+completion of their fourth full-time semester at Beloit. Students seeking this change must notify the registrar
+in writing, and they must provide a letter of support from their advisor.
+Other grades
+AU: Audit notation given when, with the consent of the instructor at the beginning of the course, the
+student attends the course without intention of maintaining graduation standards of performance,
+but does maintain a standard of performance that the instructor conceives as adequate for an audit.
+Audited courses may not be converted into credit courses. Laboratory, studio, and applied music
+courses normally may not be audited.
+CR: Credit earned at a satisfactory level (“C” or better) but not assigned an evaluation.
+I: Incomplete (see “Incompletes” below).
+NC: No credit (given only in CR/NC courses).
+RF: Indicates satisfactory repetition in a subsequent semester of a previously failed course (see
+“Repeated Courses” below, for full description).
+S: Satisfactory (given only for registered athletic participation).
+X: Notation used for work not yet evaluated. A mark of “X” will be replaced by any other mark
+subsequently reported.
+U: Unsatisfactory.
+WP: Passing withdrawal notation granted upon petition of a student during the second half of a
+course, when withdrawal is approved by the Academic Performance Committee after the instructor of
+that course certifes that the student is doing passing level work at the time of withdrawal.
+Repeated Courses: Students may repeat a course if they received a grade of “D+” or lower. Credit for the
+grade from the most recent course attempt will be used in calculating the grade point average and earned
+unit count. Credit for the previous course attempt will be set to zero; the previous grade will not be used in
+determining the grade point average. The letter grade will appear on the transcript with an “R” prefx.
+The grading policy on repeated courses:
+1. Applies only to courses taken at Beloit College
+2. Applies to “topics” courses only if the same topic is repeated. A “topics” course is one that may be
+repeated for credit if the topic is diferent
+3. Does not apply to music lessons and music ensembles
+4. Does not apply to dance courses that may be taken twice for credit
+Faculty of the repeated course will be able to determine if/ when a student may repeat the course.
+Enrollment in a repeated course is subject to availability of and space in the course, which are not
+guaranteed.
+TABLE OF CONTENTS
+16
 
-Incompletes Policy:
-- Eligibility: Granted only for serious illness, injury, or unpreventable emergency occurring in the last two weeks of the semester.
-- Application Deadline: Form must be submitted to the Registrar between two weeks before classes end and the last day of final exams.
-- Completion Deadline: Work must be finished within eight (8) weeks of the last final exam day.
-- Consequence of Non-completion: Unresolved Incompletes automatically turn into an "F" grade after eight weeks.
+[page 17]
+
+Incompletes: Incomplete grades shall be granted only in cases of serious illness or injury, family crisis, or
+some other substantiated unforeseen circumstance beyond the control of the student that would make it
+impossible to complete all course requirements by the end of the semester. Incompletes are only an option
+if the student has extenuating circumstances that occur in the last two weeks of a traditional term, or if the
+student experienced extenuating circumstances earlier in the term and was unable to catch up with the
+work, despite good faith eforts to do so. An incomplete is intended for special circumstances where stu-
+dents have a very limited number of remaining assignments due. A student may not receive an incomplete
+for a course because of failure to complete required assignments on time and/or because of a signifcant
+number of absences occurring during the course of the term.
+Students who believe they can demonstrate a legitimate need for an incomplete should:
+1. Obtain a Request for an Incomplete form from the Registrar’s Ofce.
+2.Seek instructor approval to take an incomplete and establish the terms.
+3.Return the form to the Registrar’s Ofce.
+The earliest a student may apply for an incomplete is two weeks before the last day of classes; the last day
+for a student to complete this process is the last fnal exam day. In cases of illness or injury occurring at the
+end of the semester, notifcation from the Dean of Students’ Ofce staf to the registrar will sufce to initiate
+the process.
+Unless the instructor stipulates a shorter time period for completion of the work, an incomplete must be
+satisfed within eight weeks of the last fnal exam day of the semester. In exceptional cases (e.g., lengthy
+illness) the instructor may petition the Academic Performance Committee or its designee to extend the
+period of the incomplete.
+A regular letter grade will be recorded upon notifcation by the instructor to the registrar. Incompletes
+normally will convert to the grade of “F” at the end of the eight-week period unless a request for an
+extension has been approved. As long as an “I” remains on the student record for a course, a student may
+not be enrolled for credit in any course that has that course as a stated prerequisite. A student may not
+graduate while an “I” remains on the record.
+Student Records, Grade Reports, and Transcripts
+Grade Reports: Grades are reported to students, their faculty advisors, and the dean of students at the end
+of each term. Reports of unsatisfactory work are made to students and their advisors as may be required.
+Under the Family Educational Rights and Privacy Act of 1974 (FERPA), as amended, the college has a re-
+sponsibility to maintain the privacy of academic records. At the end of each semester, grade reports are
+available to students for viewing through the Portal, the web-based interface to the Jenzabar administrative
+database used at Beloit College. A student may request in writing that fnal grades be sent to the parent(s).
+Transcripts: The college maintains records for each student, both for campus reference use and as a service
+to the student. These records are cumulative both in time and in interest, including not only an academic
+record of each term the student is in college, but also information on honors received, fnancial needs, and
+educational and occupational plans.
+Permanent records are confdential between the student and the college. Students may request transcripts
+of their permanent academic records at any time; however, transcripts will not be released without the
+student’s authorizing signature and approval from the Accounting Ofce. Requests for transcripts may be
+submitted online using the instructions found at www.beloit.edu/ofces/ registrar/transcripts-diplomas-
+verifcation-letters/. A fee is charged for each transcript issued.
+In accordance with FERPA, students who wish to review records, fles, documents, and other materials
+that are maintained by the college and contain information directly related to the student may do so
+by appointment with the registrar. Students may challenge information which they consider inaccurate
+or misleading, and if the custodian of the record refuses a request for modifcation or removal of the
+information, the student may fle an appeal or place a written explanation of the challenge in the fle.
+TABLE OF CONTENTS
+17

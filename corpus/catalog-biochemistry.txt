@@ -1,11 +1,102 @@
-Biochemistry Major Requirements (12.5-13 units)
+id: catalog-biochemistry
+title: Course Catalog: Biochemistry Major
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 33-34
+retrieved: 2026-10-29
+------------------------------------------------------------
+[page 33]
 
-Required Courses:
-1. Biology: BIOL 111, BIOL 205, and BIOL 289.
-2. Chemistry: CHEM 117 (or 118), CHEM 220, CHEM 230, CHEM 235, and CHEM 300.
-3. Biochemistry: BIOC 260, BIOC 360, and BIOC 380.
-4. Mathematics & Physics: MATH 110 and PHYS 101 (or PHYS 102).
+i. Biology 110, 247 (or Health and Society 201), 256, 257.
+ii. Chemistry 117, 230, 260.
+iii. Physics 101.
+iv. Psychology 100.
+v. Health and Society 301, 390 (Biomechanics).
+vi. Exercise Physiology taken at UW-Milwaukee prior to enrolling.
+2. Other requirements for Health Sciences major with the exception of two courses on the social
+determinants of health, which will be transferred from UW-M.
+Additional Notes:
+1. Equivalent courses may be substituted in many cases. Students should consult with their advisor and the
+registrar.
+2. Students must earn a C or better in prerequisite courses.
+3. Students must earn at least 16 Beloit College units.
+4. After successful completion of the frst-year of the UW-M MSAT and receipt of an UW-M transcript, Beloit
+College will transfer 7 units of credit from UW-M. UW-M grades do not contribute to the Beloit College
+grade point average.
+Questions about the dual-degree athletic training program? Reach out to the Health Professions Advising
+Committee.
+Athletic Training Dual Degree Program Courses
+Courses for this program come from many departments and programs.
+Biochemistry
+Biochemistry is the study of life on a molecular level. Hands-on, inquiry-based experiences ask students
+to develop their own understanding and to communicate it to others to create a deeper knowledge of the
+chemical basis for biological processes. Our goal is for students to do what biochemists actually do.
+Biochemistry is an interdisciplinary feld supported by the biology and chemistry departments. Students
+use sophisticated techniques and instruments in both departments to develop a molecular understanding of
+biomolecules and biomolecular processes. Biochemistry students develop necessary skills for employment
+and further education and training in pharmacy, medicine, biology, chemistry, and biochemistry. Biochemists
+are key members of interdisciplinary teams in medicine, environmental research, and biotechnology.
+Biochemistry Faculty
+• Rachel A. Bergstrom, PhD
+• Amy Briggs
+• Christine Hustmyer
+• Kristin J. Labby
+• Corbin Livingston
+•
+Biochemistry Major (11 units)
+1. Nine units:
+a. Chemistry 117, 220, 230, and 235.
+b. Biology 110, 111, 121, 152, 172, or 208.
+c. Biology 247 and Biology 237, 256, 257, or 289.
+d. Biology/Chemistry 260 and 300.
+2. Two supporting units:
+a. Mathematics 110 or 115.
+b. Physics 101 or 102 or Geology 100, 105, or 110.
+TABLE OF CONTENTS
+33
 
-Degree Options & Capstone:
-- Bachelor of Science (BS) in Biochemistry: Requires an additional 4 units in natural sciences, mathematics, or computer science outside the Biochemistry program.
-- Capstone Requirement: Must be fulfilled via a Senior Thesis or approved Capstone project.
+[page 34]
+
+3. Students majoring in biochemistry may choose to receive the Bachelor of Science degree rather than
+the Bachelor of Arts degree by completing a minimum of 4 units in biology, computer science, geology,
+mathematics, and/or physics.
+Departmental Honors in Chemistry or Biochemistry
+Student may apply to be considered for departmental honors if they have: 1. at least a 3.5 GPA in depart-
+mental (CHEM, BIOL) courses, 2. have completed an independent research project equivalent to at least 1
+unit, and 3. have made a formal public oral presentation on campus (e.g. Symposium Day, McNair Sympo-
+sium) or a poster or oral presentation at a regional, national, or international conference; on-campus poster
+presentations and oral presentations in classes do not fulfll the presentation requirement.
+Notes for Biochemistry Majors
+Students intending to pursue graduate school need:
+1. Mathematics 110 and 115.
+2. Physics 101 and 102.
+3. Chemistry 240.
+4. At least one summer or semester full-time research experience.
+Students intending to pursue medical school need:
+1. Mathematics 110 and 115.
+2. Physics 101 and 102.
+3. Two semesters of English courses.
+Beloit College is approved by the American Chemical Society, the world’s largest scientifc society, for the
+undergraduate professional training of biochemists. In addition to fulflling the major requirements, a student
+interested in earning ACS degree certifcation is required to complete:
+1. Mathematics 115.
+2. Physics 102.
+3. Chemistry 240 or 245.
+4. Chemistry 150 or 250.
+5. Chemistry 380.
+6. One additional 300-level chemistry course with laboratory work.
+7. A research internship with a comprehensive written report.
+Biochemistry Courses
+Courses for this program come from many departments and programs.
+Biology
+The biology department seeks to inspire and enable students to grow in their scientifc understanding. Our
+courses and curriculum present a dynamic approach to scientifc investigation: posing problems for study,
+proposing and probing hypotheses, and persuading peers. Using evolution as the unifying theme of biology,
+we emphasize current biological methods and rigorous conceptual analyses at all scales of organization,
+from molecules to cells to organisms to ecological communities.
+We encourage biology majors to interact extensively with professors and with each other, and we use
+a variety of learning activities and mentored research experiences to illustrate the tools of the trade, to
+reinforce concepts, and to apply problem-solving techniques. The learning goals for students are to be able
+to: think critically about important biological issues of national and international concern; communicate
+efectively, both orally and in writing; and solve problems through the application of quantitative reasoning.
+TABLE OF CONTENTS
+34

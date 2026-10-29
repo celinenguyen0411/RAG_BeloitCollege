@@ -1,12 +1,104 @@
-Economics Major Requirements (10-10.5 units)
+id: catalog-economics
+title: Course Catalog: Economics Major
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 59-60
+retrieved: 2026-10-29
+------------------------------------------------------------
+[page 59]
 
-Required Core Courses:
-1. Economics 199 (Introductory Economics).
-2. Economics 211 (Intermediate Microeconomics) and Economics 251 (Intermediate Macroeconomics).
-3. Economics 202 (Econometrics and Data Analysis) or Mathematics 106.
-4. Electives: Four elective units in Economics at the 200-level or 300-level, with at least two at the 300-level.
-5. Senior Capstone: Economics 380 or Senior Thesis (ECON 390).
+DSDA 390. Special Project (.25 - 1). Student works on an independent data project under faculty
+supervision. There are no prerequisites, but ideally the student should have foundational skills in courses
+such as CSCI 111 “Intro to Programming” and at least one statistics or quantitative methods course.
+DSDA 395. Teaching Assistant (.25 - .5). Student assists faculty in classroom instruction. Graded credit/no
+credit.
+Economics & Business
+The Samuel J. Campbell Department of Economics and Business curriculum provides students with a solid
+understanding of fundamental economic and business principles, how the global market economy works,
+how key institutions of a modern economic system operate, and how to apply these understandings to
+business management, public policy, and their own lives. The department emphasizes the development of
+quantitative and analytical skills and career readiness.
+Three majors are ofered: (i) Business Management, for students interested in a business career; (ii)
+Economics, which emphasizes the economics discipline as a social science; (iii) Quantitative Economics,
+which requires more math and emphasizes quantitative skill.
+Economics & Business Faculty
+• Benjamin Adams
+• Bob Elder
+• Laura Grube
+• Greg Casey Hanrahan
+• Varan Kitayaporn
+• Matt Laszlo
+• Brian Morello
+• Diep Phan
+• Disha Shende
+• Kevin S. Smith
+Business Management Major (11 units)
+The Business Management major is designed for students interested in the analytical side of running an
+organization. The major has the analytical core of microeconomics and macroeconomics and the business
+core of accounting, fnance, and management courses. Graduates will be equipped to participate in the
+operation of all forms of business/economic organizations, to work in the fnancial services sector, to pursue
+professional programs, and/or to start their own businesses.
+1. Eleven departmental units:
+a. Economics 199, 211, 212, 251, and 380.
+b. Business 216, 217, and 285.
+c. Three elective units chosen from Business 206, 220, 230, 255, 260, 270, 301, 302, 304, 340, 350,
+Economics 202, 210, 245, 304, 306, and Philosophy 225.
+d. Business Management majors are recommended to pursue one minor (choose from Finance,
+Marketing, Entrepreneurship, and Sports Management). If students do pursue a minor, they must pay
+attention to limits on double counting (i.e. using the same course to fulfll requirements for a major
+and minor). These rules are indicated with the minor requirements.
+Economics Major (13 units)
+The core of the economics major is economic theory, which is a set of tools an economist uses to understand
+how the world operates, and how individuals, groups and organizations behave. The major also requires
+supporting courses in other social sciences, so that students gain interdisciplinary perspectives on how
+the world operates. This major is suitable for students considering careers in public policy, international
+TABLE OF CONTENTS
+59
 
-Major Policy Rules:
-- GPA Minimum: A cumulative GPA of at least 2.000 in all major courses is required for graduation.
-- Transfer Credit Limit: A maximum of 2 transfer units may be applied toward the Economics major with departmental permission.
+[page 60]
+
+development, education, sustainability, public policy, and others.
+1. Nine departmental units:
+a.Economics 199, 211, 212, 251, 303, and 380.
+b. Three elective units: choose from Economics 201, 202, 203, 205, 209, 210, 245, 271, 304, 306, and
+Business 206, 230.
+2. Extra-departmental and supporting courses (4 units): choose two out of three sequences below.
+a. Sociology 100 or 150 and choose one from 216, 221, 231, 235, 240, 245 or 251.
+b. Political Science 110 or 160 and choose one from 210, 212, 214, 230, 246, 255 or 257.
+c. Two units on a specifc country/region of the world from any discipline, including language classes.
+Students who major in Economics are encouraged to take Mathematics 110.
+Quantitative Economics Major (13 units)
+The quantitative economics major enables students to use elements of mathematics to model scenarios in
+microeconomics and macroeconomics. It teaches students empirical techniques that enable them to test
+hypotheses emerging from the underlying micro and macro theory by using data drawn from individual frms
+and entire economies around the world. Through their course choices, students can observe quantitative
+comparisons between benefts and costs in a variety of contexts that range from the environment to health,
+sports, and systems for organizing economic activity.
+1. Ten departmental units:
+a. Three units in economic modeling: Economics 199, 211, 212.
+b. Two units in empirical analysis: Economics 251, 303.
+c. One unit in mathematical analysis: Economics 305 or 306.
+d. One unit in cost-beneft analysis: Economics 201, 202, 203, 205, 209, 210, 245.
+e. One capstone unit: Economics 380.
+f. Two elective units from Economics 300, 304, or Business 301, 302, 350 and any of the courses not
+used to satisfy the preceding requirement, and Economics 271 if the subject of the topics course is
+pertinent.
+2. Supporting courses (3 units):
+a.Three units from Mathematics: 110, 115, and one chosen from 160, 205, 275, or 290.
+Entrepreneurship Minor (6 units)
+1. One unit of Economics 199.
+2. One unit of PRAX 202.
+3. One unit of Business 216.
+4. One unit of Business 220.
+5. One unit of Business 304.
+6. One unit of PRAX 285.
+Students may not count more than 2 units from the above listed minor requirements for their major.
+Finance Minor (6 units)
+1. One unit of Economics 199.
+2. One unit of Economics 212.
+3. One unit of Business 216.
+4. One unit of Economics 245.
+5. Finance courses: 2 units chosen from Business 217, 340, 350, or Business 270 (when the topic is
+relevant).
+Students may not count more than 3 units from the above listed minor requirements for their major.
+TABLE OF CONTENTS
+60

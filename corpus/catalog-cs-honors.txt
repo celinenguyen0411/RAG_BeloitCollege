@@ -1,13 +1,58 @@
-Departmental Honors in Computer Science
+id: catalog-cs-honors
+title: Course Catalog: Computer Science Departmental Honors
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 49
+retrieved: 2026-10-29
+------------------------------------------------------------
+[page 49]
 
-Criteria for Awarding Honors in Computer Science:
-1. Academic Achievement: Cumulative GPA of at least 3.2 overall and a GPA of at least 3.2 in all Computer Science major coursework.
-2. Intention to Apply: Submit written intention to apply for honors, including the list of major courses, to the department chair no later than the last day to add one-unit courses during the student's final on-campus term.
-3. Project: Engage in original research demonstrating thorough knowledge of Computer Science via:
-   - A summer research experience
-   - An internship
-   - An off-campus study course
-   - A Special Project (CSCI 390) of at least 0.5 unit, or a 0.25 unit Special Project expanding on work in CSCI 175 or higher.
-4. Presentation: Present project work to an external audience (on or off campus).
-5. Professional Engagement: Active engagement in the department/discipline and serving as a respectful, professional role model.
-6. Faculty Designation: Approval by the Department of Mathematics and Computer Science faculty confirming independence of thought and intellectual maturity.
+Computer Science Minor (6 units)
+1. Six departmental units:
+a. Two units of core courses: Computer Science 111 and 204.
+b. Four additional units of computer science courses chosen from 175, 245, 315, 335, 347, 367, and
+377. Cognitive Science 205 (when topic is appropriate), Data Science & Data Analytics 345, 385,
+or Mathematics 300 may be used toward this 1 unit if approved in advance by a computer science
+advisor or another course approved in advance by the department chair.
+Advanced Placement Credit for Computer Science
+Supplemental to the college’s general policies of Advanced Placement and Credit, the department of
+mathematics and computer science may grant additional placement (based on advising by faculty). The
+department does not grant placement for computer programming alone but for mastery of concepts and
+techniques of computer science.
+Departmental Honors in Computer Science
+The goals of departmental honors in Mathematics and Computer Science are:
+1. To encourage students to explore independently topics in mathematics or computer science outside
+the scope of our formal curriculum, and
+2. To enhance students’ abilities to communicate ideas in mathematics and computing.
+Honors in Computer Science is awarded on the basis of the following criteria.
+1. Academic achievement. The candidate must demonstrate high academic achievement across the
+College (cumulative GPA of at least 3.2) and in Computer Science (GPA of at least 3.2 in the major).
+2. Intention to apply: The candidate must submit an intention to apply for honors (in writing), including
+the list of courses that satisfy the requirements for the major, to the chair of the Mathematics and
+Computer Science Department no later than the last day to add one-unit courses for the last on-
+campus term as a regular full-time student.
+3. Project: An honors student in Computer Science engages in original research that demonstrates thor-
+ough knowledge of Computer Science. The project may be completed through
+• A summer research experience
+• An internship
+• An of campus study course
+• A Special Project (CSCI 390) of at least 0.5 unit, or a 0.25 unit Special Project that expands on one
+in CSCI 175 or higher.
+4. Presentation: An honors student in Computer Science must present their work to an external audience
+(on or of campus).
+5. Professional engagement: The candidate should demonstrate active engagement in the department or
+in the broader discipline of computer science and serve as a role model for respectful and professional
+behavior.
+6. The award of Honors in Computer Science requires designation by the faculty of the Department of
+Mathematics and Computer Science that the candidate’s project and presentation is of honors merit
+(one that demonstrates independence of thought, intellectual maturity, and an in-depth understanding
+of the research problem).
+Computer Science Courses
+CSCI 111. Introduction to Object-Oriented Programming (1). This course is a structured approach
+to algorithm development and problem solving using computer programming in an object-oriented
+programming language such as Java or Python. The course develops the concepts of procedural abstraction,
+program design, debugging, and testing in addition to teaching the standard features of a high-level
+computer programming language. Students will be introduced to the key concepts of object-oriented
+programming, including classes, inheritance, polymorphism, and interfaces. Societal issues related to
+computers (e.g. ethics, privacy, liability, and security) will also be discussed. (1S) Ofered each semester.
+TABLE OF CONTENTS
+49

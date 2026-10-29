@@ -1,10 +1,83 @@
-Credit Caps & Grade Minimums:
-- Max 15 total transfer units allowed toward the 31-unit degree (grade of "C" or better required).
-- Max 8 units allowed from AP, IB, or GCE A-Level exams.
-- Max 8 units allowed from non-Beloit online/distance coursework.
-
-Gen Ed & Requirement Restrictions:
-- AP, IB, and GCE credits CANNOT satisfy any Domain or Skill requirements.
-- Transfer credit can satisfy Quantitative Reasoning ("Q") and 1 Writing ("W") requirement.
-- Transfer credit CANNOT satisfy Intercultural Literacy ("C") or the final 2 "W" requirements.
-- Earning an Associate of Arts (AA) or Associate of Science (AS) degree automatically satisfies all Domain and Skill requirements.
+id: registrar-transfer-credits
+title: Registrar: Transfer Credit
+source: https://www.beloit.edu/offices/registrar/transfer-ap-gce-ib-credit/
+kind: html pages N/A
+retrieved: 2026-10-29
+------------------------------------------------------------
+Related Links
+Transfer, AP, GCE, & IB Credit
+Beloit College accepts transfer credit from other institutions of higher learning as well as AP, IB, or GCE A-level exams.
+Acadeum Courses
+If you are interested in taking an online course during the summer or winter breaks, you may search Acadeum and then contact the Registrar’s Office at registrar@beloit.edu to determine if a specific course is available to Beloit students. Note: This search works best if you do not log in as a Beloit College student.
+Approved Acadeum courses earn Beloit College credit and letter grades. Some courses may be used to meet major or minor requirements. Students should communicate with their advisors and the Registrar’s Office if they have specific questions.
+**NOTE: Students may enroll in Acadeum courses through Beloit College during the summer and winter breaks, but not during the Fall or Spring semester.
+Beloit College will apply up to 15 units (60 semester hours/90 quarter hours) of transfer credit [including a maximum of eight (8) AP, IB, or GCE A-level units] from accredited colleges and universities toward a student’s degree. Courses with a grade of “C” or better are eligible for transfer credit.
+Transfer credits may help students fulfill requirements in one or more of the following categories: (a) the 31 total Beloit units required for graduation; (b) Beloit’s “5 Domains and 5 Skills”; and (c) courses counted toward a major or minor. Note: AP, IB, or GCE A-level credits may not be used to fulfill any of the 5 Domain or Skills requirements.
+Students who have earned an Associate of Arts or Associate of Science degree automatically fulfill the domain and skill requirements. Students who have earned an Associate degree other than Associate of Arts or Associate of Science or met the general education requirements at another institution without completing a degree may apply to have their records reviewed by the registrar to determine whether they qualify for a waiver of the domain and skill requirements.
+Up to a total of eight (8) units of online credit may count toward the 31 units required for graduation, provided that the courses taken adhere to usual policies of transfer credit (e.g. no “developmental” or “college prep” courses), preference for courses that can be taken under a “liberal arts” curriculum, etc. Online courses taken under Beloit’s aegis (whether through Acadeum or Beloit) do not count toward this 8-unit limit.
+Domains and skills transferred before and after matriculation: (a) Students may fulfill domain requirements through transfer credit. (b) Students may transfer courses to fulfill the “Q” and one “W” requirement but not the “C” or final two “W” requirements. After matriculation at Beloit College, students may apply to the registrar to transfer credits in fulfillment of domain and/or permitted skill requirements.
+Students applying to Beloit with transfer credits should include their most recent official transcript as part of their application. This information will become part of the student’s permanent academic record. Students applying as “transfer” applicants will receive from the registrar a transfer credit evaluation and graduation checklist. The evaluation and checklist will outline for students what requirements will still need to be completed in order to earn the anticipated degree.
+Students enrolled at Beloit who wish to transfer credits for coursework taken after matriculation should complete a Transfer Credit Authorization Form prior to taking a course elsewhere.
+All academic work on the college level and of a liberal arts nature, undertaken at other accredited institutions, and successfully completed with a grade of “C” or better, must become part of the student’s permanent record at Beloit.
+Official transcripts of such work must be presented at the time of application for admission or as soon as possible after completion of the work.
+Transfer courses may be used to satisfy all 5 domain requirements and two of the five skills requirements, with the following limitations:
+- One out of the three required writing courses may be a transferred course.
+- The quantitative reasoning requirement may be fulfilled with a transfer course.
+- The intercultural literacy requirement must be fulfilled at Beloit College.
+- AP/IB/GCE A-level credits may not be used to fulfill any of these requirements.
+Determination of the number of transfer credits used toward major or minor requirements is made by the chair of the appropriate department or program, in consultation with the registrar. Students should take account of the following guidelines:
+- Normally at least half of the courses used toward fulfillment of major or minor requirements must be completed at Beloit College.
+- Students who expect to use transfer credits to fulfill major or minor requirements should consult with the chair of the appropriate department or program at the earliest possible time.
+- Enrolled students should consult their major/minor advisor (or the chair of the department or program) before undertaking coursework elsewhere to fulfill major or minor requirements: departments and programs differ widely in the number and types of courses they accept as transfer credit toward a major or minor.
+- Transfer credits applied toward the student’s domain or skill requirements and toward the student’s total units required for graduation may be counted toward the completion of a major or minor requirement only with departmental or program approval
+Students enrolled at Beloit who wish to transfer credits for coursework taken after matriculation should complete the Transfer Credit Authorization Form prior to enrolling in a course elsewhere.
+The registrar, in consultation with faculty, assesses student transcripts and transfer credit applications to determine what coursework can be applied toward the total units required for graduation. Transfer credits applied toward the total units required for graduation will adhere to the following guidelines:
+- Most liberal arts courses are accepted for transfer credit, provided the course is of the level and nature offered at Beloit.
+- Work done elsewhere will be recorded in equivalent credit units (where a unit equals 4 semester or 6 quarter hours).
+- A grade of “C” or better is required for the credit to transfer.
+- Grades from transfer courses will neither be recorded on the transcript nor included in the Beloit grade point average.
+- No more than eight (8) Beloit units (32 semester hours/48 quarter hours) of distance learning coursework (e.g. online, extension, or correspondence) will be allowed toward the degree. Courses taken under Beloit’s aegis (whether through Acadeum or Beloit itself) do not count toward this 8-unit limit.
+- Official transcripts should be presented to the registrar as soon as possible after completion of coursework taken elsewhere.
+No more than two units of credit may be transferred during the senior year, except with the approval of the Academic Performance Committee.
+Up to 8 units of credit from tests administered outside the College, such as the AP, IB, or GCE A-Level examinations, may be applied toward graduation. Students with applicable credit should have an official transcript or score report sent to the Registrar’s Office.
+AP subject examination scores of 4 and 5 guarantee 1 unit of credit and placement. Official AP credit should be sent to the Registrar’s Office via the College Board site: https://apstudents.collegeboard.org/sending-scores/free-score-send. Once these official scores are received and evaluated, the Registrar staff will input any eligible credit on a student’s Beloit record.
+AP credits may not be used to fulfill any of the Domain or Skills requirements.
+The following AP course credits will not substitute for an introductory or major/minor course, but will count toward the 31 units required for graduation:
+- Art History
+- Computer Science Principles (beginning in Fall 2016)
+- Economics – Macro or Micro
+- English Language
+- English Literature
+- History – European, United States, or World
+- Human Geography
+- Latin
+- Music Theory
+- Physics 2
+Other AP course credit policies:
+- No credit is awarded for AP Capstone: AP Seminar and AP Research.
+Course credit is awarded as follows
+| Exam | Policy |
+| African American Studies | Credit for 1 unit of Critical Identity Studies elective, but not CRIS 101 |
+| Art - 2D Design, 3D Drawing, or Drawing | May replace a 100-level studio art course – see Dept. Chair |
+| Biology | May replace a 100-level biology course – see Dept. Chair |
+| Calculus AB or Calculus AB subscore | Credit for MATH 110 |
+| Calculus BC | Credit for MATH 115 |
+| Chemistry | Credit (1 unit) for introductory chemistry; may enroll in CHEM 220 or CHEM 230 – see Dept. Chair |
+| Comparative Government and Politics | Credit for POLS 160; may enroll in 200-level POLS courses |
+| Computer Science A | Credit for CSCI 111- see Dept. Chair for placement |
+| Environmental Science | Credit for introductory natural science requirement for ENVS major |
+| Languages, Literatures, and Cultures: Chinese, French, Germain, Italian, Japanese, and Spanish | Follow language placement recommendation from modern languages department |
+| Physic C: Mechanics | Credit for PHYS 101 |
+| Physics C: Electricity and Magnetism | Credit for PHYS 102 |
+| Physics 1 | Credit for PHYS 101 |
+| Psychology | Credit for PSYC 100 |
+| Statistics | Credit for MATH 106 |
+| US Government and Politics | Credit for POLS 110; may enroll in 200-level POLS courses |
+Students who have taken the General Certificate of Education advanced-level examination (GCE A-level) will receive 1 unit (four semester hours) of credit for each passing grade (A, B, or C). To determine placement, students should consult with the appropriate department. Up to 1 unit of history GCE A-Level credit may apply to the history major as a 200-level elective.
+GCE A-level credits may not be used to fulfill any of the Domain or Skills requirements.
+How can I send an official transcript of my A-Level Exam results to Beloit?
+You can use the Grade Transcript Service to send your official Cambridge A-Level exam grades to Beloit. For more information, please visit the Cambridge website.
+Advanced standing also will be given to students who complete the International Baccalaureate (IB). One unit of credit will be given for each score of 4-7 for those who take the higher level IB examinations, and for each score of 6 or 7 on a standard level examination. To determine placement, students should consult with the appropriate department. Up to 1 unit of history IB credit may apply to the history major as a 200-level elective.
+IB credits may not be used to fulfill any of the Domain or Skills requirements.
+Once results are released, graduates of IB programs can request for their transcripts to be sent to institutions directly by placing a request through https://ibo.org/programmes/diploma-programme/assessment-and-exams/getting-results/
+The college reserves the right to review each test to determine its acceptability. The appropriate academic department will review it in consultation with the registrar.
