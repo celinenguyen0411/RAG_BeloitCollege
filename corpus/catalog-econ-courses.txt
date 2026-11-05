@@ -1,0 +1,274 @@
+id: catalog-econ-courses
+title: Course Catalog: Business & Economics Course Descriptions
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 62-66
+retrieved: 2026-11-04
+------------------------------------------------------------
+[page 62]
+
+BUSN 217. Corporate Finance (1). This course teaches students both theoretical and practical applications of
+modern fnance. This course covers topics such as: time value of money, bond valuation, capital budgeting,
+and long-term fnancing. Students learn how to read and analyze fnancial statements; calculate and analyze
+fnancial ratios; evaluate frm and stock performance price or value assets including bonds, stocks and other
+securities and derivatives; measure and manage risk; construct an investment portfolio; and evaluate its
+performance. Prerequisite: Economics 199 and Business 216.
+BUSN 220. Marketing Principles & Strategy (1). This course provides students with a comprehensive
+understanding of the fundamental concepts, principles, and practices of marketing. Marketing is a dynamic
+and essential discipline that plays a critical role in the success of business, organizations, and individuals.
+Students explore the key components of marketing, including research, consumer behavior, product
+development, pricing strategies, promotion, distribution, and the ever-evolving digital landscape. Through a
+combination of lectures, case studies, group discussions, and project work, students gain valuable insights
+into how marketing strategies are developed and executed to achieve business objectives. Whether they’re a
+business student, entrepreneur, or marketing enthusiast, this course empowers them to understand, analyze,
+and create efective marketing strategies. Prerequisite: sophomore standing.
+BUSN 230. Consumer Behavior (1). This course covers the basics of experimental economics, which
+is an empirical method used to identify or test causal relationships, and behavioral economics, a sub-
+discipline within economics that studies how people make decisions. Knowledge and skills learned from
+both behavioral economics and experimental economics are applied to consumer behavior and marketing/
+advertising strategies. Students do a fnal group project in which they apply a behavioral economic concept
+or theory to solve a marketing problem or answer a marketing question, then design an experiment to
+test the solution or answer. (3B) Prerequisites: Economics 199 and a statistics course, such as Mathematics
+106, Economics 251, Sociology 205, Psychology 161, Political Science 201, or another statistics course by
+permission of the instructor.
+BUSN 255. Business of Sports (1). This course is designed to increase student awareness and understanding
+of the sport industry structure and operations. Additionally, the course increases student knowledge of the
+scope and variety of career opportunities in the sport profession. Focus is given to the business of sport
+and current issues facing sport organizations along with management strategies utilized to solve challenges
+in the sports business. Prerequisites: Sophomore standing and either Economics 202: Economics of Sports,
+Sociology 290: Sociology of Sports, or permission of instructor.
+BUSN 260. Sports Facility Management and Operation (1). This course examines the comprehensive
+planning for the development and operations of new and existing sport facilities and the management
+of events in those facilities. Topics covered include planning, design and production, fnancing, general
+management, service delivery, scheduling, supervision, and technology management. Prerequisites: At least
+sophomore standing; either Sociology 290 Topics: Sociology of Sport, Economics 202, or permission of
+instructor.
+BUSN 270. Topics in Business (1). In depth study of one or more selected topics in business. May be
+repeated for credit if topic is diferent. Prerequisites: vary, depending on topic and instructor.
+BUSN 285. Business Management (1). This course develops and applies microeconomic theory to determine
+optimal business management strategies while considering scarce resources, risk, and competitive market
+structures. Students learn how to apply economic concepts in analyzing production, pricing, and risk
+in a frm. In addition, students learn and develop Excel spreadsheet skills as a quantitative tool applied
+to managerial economic problems such as sensitivity analysis, cost analysis, data analysis, and linear
+programming. Ofered most fall semesters. Prerequisite: Economics 199 and 211.
+BUSN 301. Business Analytics (1). Students discover the core principles of business analytics integrated
+with Python programming in this comprehensive course. Students delve into essential techniques for data
+analysis, interpretation, and its practical application within modern business settings. The course focuses
+on statistical methods, predictive modeling, and data visualization tools, all while leveraging Python as a
+primary analytical instrument. Through real-world case studies and hands-on experience with Python-based
+analytics, students gain the skills to extract meaningful insights from data and make informed, data-driven
+decisions. Ofered each year. Prerequisite: Economics 251.
+TABLE OF CONTENTS
+62
+
+[page 63]
+
+BUSN 302. Marketing Research (1). An introduction to the research methods used by organizations (public
+and private, proft and non-proft) to understand the wants and desires of their customers, clients, and con-
+stituents to more efectively deliver a product or service. Topics covered will include: the research process,
+use of secondary data, collection of primary data (from focus groups to experimental design), survey design,
+attitude measurement, sampling, data analysis, and presentation of research fnding. Prerequisite: Economics
+199 and 251.
+BUSN 304. The Art of Leading: Finding Your Voice & Infuencing Change (1). In this class, students learn
+how to lead, no matter who they are, no matter what they want to pursue in life. Students study leadership
+through diverse contexts, case studies on complicated global, community, business, and organizational
+issues, interactions with guest speakers who are successful leaders. Students gain a deeper understanding
+of their strengths and learn to creatively fnd and communicate solutions to complex problems, build and
+lead efective teams, develop a strategic plan to achieve their vision, and act in organizations and the world
+to infuence change for the better. Prerequisites: Junior standing; sophomores by exception. (Also listed as
+Praxis 304.)
+BUSN 340. Investment and Portfolio Management (1). This course provides a basic understanding of the
+investment process and the investment management world and career. Students learn: the various types
+of investment instruments and trading mechanisms available in the fnancial markets, how to measure
+and manage risk in the context of portfolio management, analytical techniques used for the evaluation of
+fnancial assets, and how to construct, manage, and evaluate the performance of an investment portfolio.
+Students also connect with industry professionals to explore a career in investment management.
+Prerequisites: Business 216 and 217.
+BUSN 350. International Finance and Investing (1). The frst half of this course focuses on international
+fnance, covering topics such as fundamentals of exchange rate determination, the international monetary
+system, the relationships among exchange rate, interest rate, and infation rate, and fnancial crises. The
+second half of the course covers international fnancial markets and global investment opportunities.
+Students learn to do country analysis and construct and manage a global investment portfolio, to prepare
+for a career in portfolio management. Prerequisites: Economics 212, 251, and Business 340.
+BUSN 390. Special Project (.25 - 1). Individual work, under faculty supervision, on projects related to a busi-
+ness topic. Prerequisites: at least sophomore standing and Economics 199.
+BUSN 395. Teaching Assistant (.5). Work with faculty in classroom instruction; provide tutoring to students.
+BUSN 397. Research Assistant (.25 - 1). Research work under faculty supervision. Graded credit/not credit.
+Prerequisite: consent of instructor.
+ECON 190. Data Analytics with SQL (.5). This course is designed to teach students how to use SQL
+(structured query language) for data analytics. Students frst study the basics of relational database
+management systems (RDBMS) and database schema which are used widely in many businesses. As part of
+RDBMS, students learn SQL which is used to gather meaningful information from data fles. Students explore
+various utilities of SQL such as creating reports for business as per the business’ requirements, creating
+tables in a database, modifying information in those tables, and so on. Students may also look at advanced
+SQL topics such as stored procedures, views, and triggers. By end of the course, students are familiar with
+diferent features of SQL and their use cases in businesses. (1S)
+ECON 199. Principles of Economics (1). This course takes an analytical approach to economic reasoning and
+contemporary economic issues. It introduces microeconomic and macroeconomic theories with applications
+to relevant issues such as employment, growth, international trade and fnance, monetary and fscal policy,
+and environmental issues. (3B) Ofered each semester.
+ECON 201. Economics of Race and Inequality (1). This course examines how race plays a role in determining
+various life outcomes of the people in the United States, including the disparities in economic outcomes
+caused by diferences in gender, sexual orientation, and other personal traits. Students are introduced to
+economic theories of discrimination; they review the empirical research around those theories and study the
+policies intended to reduce this discrimination. Students learn how to read research papers in economics
+and also learn econometric tools that economists use to calculate discrimination. If time permits, students
+TABLE OF CONTENTS
+63
+
+[page 64]
+
+look at other types of inequalities in an international context such as caste-based inequalities in India. By the
+end of the course, students learn how to think about various types of inequalities from an economics lens.
+(3B). Prerequisite: Economics 199.
+ECON 202. Sports Economics (1). This course applies economics to sports in the U.S. and around the world.
+Applications of economics include analytical tools from the felds of industrial organization, public fnance,
+and labor economics. Theoretical outcomes for economic variables such as revenues, costs, and profts as
+well as sports variables such as winning percentages, team payrolls, and competitive balance are compared
+with data on these variables from the real world. Cost-beneft analysis of new sports infrastructure is
+considered both for recurring use by local teams and for non-recurring use to host events such as Olympics
+or other championships. Ofered each year. Prerequisite: Economics 199.
+ECON 203. Economics of Globalization (1). This course examines three main aspects of economic
+globalization: international trade, international migration, and international capital fows. We will use
+economic models to study why each aspect of globalization happens, who are the winners and losers
+from each, and the impacts of globalization on matters of interests such as economic growth, poverty and
+inequality, the environment, labor standards, etc. The theoretical analyses are then confronted with data
+and country case studies. This will enable us to understand why some people are against globalization while
+others embrace it, whether we should have more or less globalization, or how we should reform or change
+globalization. This course is recommended for students who plan to work for government and international
+organizations in activities afected by international economic relations. (3B) Ofered once per year.
+Prerequisite: Economics 199.
+ECON 205. Environmental Economics (1). This course has two main themes: First, the most pressing
+environmental problems, such as climate change, are directly connected to the production and consumption
+of energy. Second, the design and critique of environmental policies must be grounded in a solid
+understanding of economics. (3B) (Also listed as Environmental Studies 205.) Ofered each fall. Prerequisite:
+Economics 199.
+ECON 209. Comparative Economic Systems (1). This course compares the theoretical foundations and
+empirical performance of various economic systems, including Marxist socialism, Soviet-type economies, and
+markets in diferent cultural contexts. The course also addresses the issues of economic reform, including
+monetary reform and privatization. Ofered every other spring. Prerequisite: Economics 199.
+ECON 210. Health Economics (1). This course is an introduction to health economics. Topics that are covered
+include: demand for health care, economics of health innovation, the supply of health care, moral hazard,
+adverse selection, health policy, social determinants of health, public health economics, behavioral health
+economics and economic epidemiology (population aging, obesity, environmental health, and infectious
+diseases). The main objective of the course is to equip students with the tools to understand healthcare
+markets and health outcomes. The course is designed be as approachable as possible and does not require a
+strong background in mathematics or quantitative methods to do well. (3B). Prerequisite: Economics 199.
+ECON 211. Intermediate Microeconomics (1). Microeconomics is the study of how households and frms
+allocate scarce resources to competing ends. Students learn to use economic models and optimizing
+techniques to address a variety of decision-making processes, including consumer utility optimization and
+producer proft maximization in the context of competitive markets, monopoly, oligopoly, and monopolistic
+competition. (3B) Ofered most semesters. Prerequisite: Economics 199.
+ECON 212. Intermediate Macroeconomics (1). In this course, construction of an organized theoretical
+framework facilitates an understanding of the behavior of variables such as GDP, infation, and
+unemployment. An open economy approach is taken, and international analyses abound. Alternative fscal
+and monetary policy strategies receive scrutiny in a variety of environments. Important contributions from
+macroeconomists representing schools of thought (e.g., Classical, Keynesian, New Classical, New Keynesian)
+from throughout the 20th century are presented. Ofered each spring. Prerequisite: Economics 199.
+ECON 245. Money and Banking (1). The nature and functions of money and of commercial banks and a
+critical analysis of the operation of the modern commercial banking system. Central banking, the Federal
+Reserve System, and monetary policy. The relationships of money and credit to price levels and national
+TABLE OF CONTENTS
+64
+
+[page 65]
+
+income. Ofered each fall. Prerequisite: Economics 199 and 211.
+ECON 251. Quantitative Methods for Business and Economics (1). An introduction to the quantitative tools
+used by decision makers in both private business and public institutions. The course reviews introductory
+statistical methods and builds to the multiple regression model. Applications of these techniques are
+then developed to explain, predict, and forecast economic and business events. Ofered each semester.
+Prerequisite: Economics 199 and at least sophomore standing.
+ECON 271. Topics in Economics (.5, 1). In-depth study of one or more selected topics in economics. Stress
+upon primary research materials, case studies, and/or applied experience of economists or policy analysts.
+May be repeated for credit if topic is diferent. Ofered occasionally. Prerequisite: Economics 199 and 211.
+ECON 300. Sports Analytics (1). In this course, students employ analytic methods to describe, diagnose,
+prescribe, and predict aspects of sporting activity using data sets from the U.S. and around the world.
+Through applications to sports, students deepen their understanding of probability, statistics, linear and non-
+linear regression analysis, and coding languages such as Stata and Excel. Prerequisites: a statistics course,
+such as Mathematics 106, Economics 251, Sociology 205, Psychology 161, Political Science 201, or another
+statistics course by permission of the instructor.
+ECON 303. Econometrics (1). This course introduces students to techniques of econometric analysis and to
+models of economic activity. It treats issues about specifcation and estimation of single- and simultaneous-
+equation models. Students become acquainted with methods of interpreting statistics describing the
+performance of estimated models, and they learn techniques for addressing any problems such statistics
+may reveal. Ofered each spring. Prerequisite: Economics 199, 211, and 251.
+ECON 304. Machine Learning for Business and Economics (1). This course teaches the basic methods,
+implementation, and applications of machine learning for understanding and solving contemporary
+business and economic problems using large datasets. The course builds upon students’ understanding of
+traditional statistical models. The topics that are covered include: OLS (Ordinary Least Squares) regressions,
+LASSO (Least Absolute Shrinkage and Selection Operator) regressions, regression model selection, and
+regularization; classifcation; tree-based methods (Decision Trees, Random Forests, Casual Trees); causal
+inference; and applications of machine learning methods in economic policy analysis. (1S). Prerequisites:
+Economics 199, 251 (or comparable quantitative or statistics-based research methods course like
+Mathematics 205) and Computer Science 111.
+ECON 305. Mathematical Economics (1). This course uses techniques from mathematics to extend
+the models developed in the Intermediate Microeconomic and Macroeconomic Theory courses. Static,
+comparative static, dynamic, and optimal control models track the behavior of economic variables.
+These models illustrate applications of linear algebra, diferential calculus, and integral calculus. Ofered
+occasionally. Prerequisite: Economics 199, 211, 212, Mathematics 115.
+ECON 306. Game Theory (1). Tools and concepts from game theory (e.g., simultaneous-move games,
+sequential-move games, Nash equilibrium, and Bayesian equilibrium) are used to model topics from
+international political economy (e.g., strategic trade policy, bargaining, and voting games), macroeconomics
+(e.g., unemployment and optimal policymaking), industrial organization (e.g., cartels, oligopoly, contestable
+markets, and mergers and acquisitions) and the fnancial sector (e.g., insurance, credit rationing, and
+auctions). Ofered each spring. Prerequisite: Economics 199 and Mathematics 110 or 115.
+ECON 380. Economics Senior Seminar on the Wealth and Well-Being of Nations (1). This capstone course
+is for all majors in the department of economics. As the title suggests, the central question raised in this
+course is, “What are the nature and causes of wealth and well-being?” This is among the discipline’s most
+important questions, and it is therefore a ftting one to pursue in this capstone course. Economists have
+addressed this question with a wide variety of intellectual tools and paradigms, and it is the source of
+continuing debate and discovery. Each year this course is redesigned around the ideas and infuence of a
+major thinker, school of thought, and/or sub-discipline within economics. This design will refect the content
+of an annual event: The Wealth and Well-Being of Nations: A Forum in Honor of Miller Upton. (CP) Ofered
+each fall. Prerequisite: senior standing.
+TABLE OF CONTENTS
+65
+
+[page 66]
+
+ECON 390. Special Project (.25 - 1). Individual work, under faculty supervision, on projects acceptable to
+the department. This course afords the opportunity to qualifed seniors for more intensive work in felds
+in which they already have taken the appropriate intermediate level course (e.g., Money and Banking,
+International Trade and Finance, etc.). Ofered occasionally. Prerequisite: Economics 199.
+ECON 395. Teaching Assistant (.5). Work with faculty in classroom instruction. Graded credit/no credit.
+ECON 396. Teaching Assistant Research (.5). Course and curriculum development projects with faculty.
+ECON 397. Research Assistant (.25 - 1). Research work under faculty supervision. Graded credit/no credit.
+Prerequisite: consent of instructor.
+Education & Youth Studies
+The education and youth studies department ofers an interdisciplinary program of theory and practice that
+promotes social responsibility through shared scholarship. In the context of current and future changes at
+the local, national, and international levels, the department commits to a responsive curriculum that tries
+to meet the changing needs of our students who are future educators, mentors, counselors, social workers,
+therapists, and social justice advocates and leaders.
+The department ofers a variety of teaching certifcations for students who are interested in teaching in K-12
+classrooms. Certifed students receive a Wisconsin teaching license that can also be transferred to about 40
+other U.S. states. The department also has a non-licensing track for students interested in pursuing a broad
+range of interests related to education and youth studies. Graduates from the EDYS program pursue careers
+in teaching, school counseling or psychology, social work, occupational therapy, international education,
+higher education administration, human resources, environmental education, social justice advocacy, youth
+development programs, and more.
+Education & Youth Studies Faculty
+• George Dalbo
+• Terri Gile
+• Andrea Heckner
+• Jingjing Lou
+• Sharon Straub
+• Amy Van Deuren
+• Alicia Wash
+Education and Youth Studies Major (9 units)
+The major embodies a scholar-practitioner model in the liberal arts tradition, with the purpose of providing
+students with a sequence of intellectual, ethical, and practical experiences that lead to a broad, integrated
+knowledge of youth and education. This knowledge is realized in the practical ability to work efectively with
+children, adolescents, and adults in schools and other social settings.
+Teacher education at Beloit is fully integrated into an academically rigorous major that stresses experiential
+and interdisciplinary learning, a respect for diference, and critical global perspectives on education and
+youth issues. The department’s teacher licensing programs are fully accredited by Wisconsin’s Department
+of Public Instruction.
+*Asterisked courses are required for student teaching.
+1. Four units from Education and Youth Studies 102, 151, 164, 201.
+2. Two units from Education and Youth Studies 246, 255*, 256*, 265*, 266*, 276 (may be taken twice), 390.
+3. Two units from Education and Youth Studies 300*, 306, PRAX 200 (internship in education and youth-
+related setting, under the supervision of Education and Youth Studies faculty and site-based personnel).
+4. Capstone: Education and Youth Studies 382.
+TABLE OF CONTENTS
+66

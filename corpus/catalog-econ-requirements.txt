@@ -1,8 +1,8 @@
-id: catalog-economics
-title: Course Catalog: Economics Major
+id: catalog-econ-requirements
+title: Course Catalog: Business & Economics Requirements
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
-kind: pdf pages 59-60
-retrieved: 2026-10-29
+kind: pdf pages 59-61
+retrieved: 2026-11-04
 ------------------------------------------------------------
 [page 59]
 
@@ -102,3 +102,50 @@ relevant).
 Students may not count more than 3 units from the above listed minor requirements for their major.
 TABLE OF CONTENTS
 60
+
+[page 61]
+
+Marketing Minor (6 units)
+1. Introductory economics: Economics 199.
+2. Business courses: Business 220 and 230.
+3. Statistics course: One unit of an introductory statistics course such as Mathematics 106, Biology 247,
+Economics 251, Sociology 205, Psychology 161, Health and Society/Political Science 201, or another
+statistics course by permission of instructor.
+4. Two units from Media Studies 150, Art 125, 280 (when topic is UX Design), 325, Museum Studies 285.
+Students may count up to 3 units from the above listed minor requirements for their major.
+Sports Management Minor (6 units)
+1. Disciplinary perspective, either
+a.Economics 199 and 202, or
+b.Sociology 100 and 219, or 290 (when topic is relevant).
+2. Business courses: Business 216 and 220.
+3. Sports management and leadership courses: Business 255 and 260.
+Students are encouraged to take other sports courses, including Economics 300 and Business 270 (when
+the topic is relevant). Students may count up to 3 units from the above listed minor requirements for their
+major.
+Finance Dual Degree Program
+Beloit College students apply to the Marquette University Accelerated Master of Finance program after
+completing 15 units (usually four semesters) at Beloit and enroll at Marquette after completing 28 units
+(usually seven semesters).
+Prerequisites
+• All requirements for the Business Management, Economics, or Quantitative Economics major except for
+one elective unit.
+• An overall and a major GPA of at least a “B” (3.0).
+• Business 216 and 217 with a grade of “B” or better.
+• All Beloit College domain, skills, and experience (“E”) graduation requirements.
+• At least 28 units of Beloit College credit with no more than 12 units of transfer credit.
+Economics & Business Courses
+BUSN 206. International Business and Asian Economies (1). In the past few decades, economies of South
+and East Asia have rapidly integrated into the global economy and achieved phenomenal economic success.
+How did they do it? In the frst part of the course, students examine these countries’ economic policies
+and discuss lessons for other countries. In the second part of the course, against the macroeconomic
+background provided in part I, students learn to identify and evaluate business strategies that are relevant
+for international business expansion to a diverse and rapidly globalizing Asia. Ofered once every other year.
+Prerequisite: Economics 199.
+BUSN 216. Financial Accounting (1). Students learn the fundamentals of accounting, including the
+accounting equation, the accounting process, journal entries, and cash vs. accrual accounting. Some
+fundamentals of fnance are also covered: time value of money, present value, future value, and how to value
+an asset using the discounted cash fow approach. For the fnal project, students learn to read and interpret
+fnancial statements and do fnancial ratio analysis. Usually ofered in fall semester. Prerequisite: Economics
+199.
+TABLE OF CONTENTS
+61

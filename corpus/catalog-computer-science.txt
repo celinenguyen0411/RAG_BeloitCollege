@@ -1,0 +1,217 @@
+id: catalog-computer-science
+title: Course Catalog: Computer Science
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 48-51
+retrieved: 2026-11-04
+------------------------------------------------------------
+[page 48]
+
+COGS 385. Advanced Topics in Cognitive Science (.5, 1). This course examines advanced topics in cognitive
+science that refect the interests and expertise of the instructor. This course serves as a capstone course for
+cognitive science majors and minors. It is open to others with the proper prerequisites. May be repeated for
+credit if topic is diferent. (CP) Prerequisite: Cognitive Science 101 and one other Cognitive Science course.
+Other prerequisites may be required depending on topics.
+COGS 390. Special Project (.25 - 1). Individual study or research under close faculty supervision.
+Prerequisite: sophomore standing.
+COGS 395. Teaching Assistant (.25, .5). Work with faculty in classroom instruction. Graded credit/no credit.
+Computer Science
+Computer science focuses on how to create a model for a real-world situation, how to represent that model
+inside a computer, and how to devise mechanizable techniques to manipulate that model. Such models and
+techniques are used to understand or investigate the situation or to solve real-world problems.
+Introductory courses prepare a student to do such problem-solving in any domain. Students pursuing a
+computer science major learn more advanced techniques for such modeling and also focus on models
+specifc to computer science and computer technology. Upper-level elective courses prepare students for
+graduate-level study and for vocations in various computer felds.
+Computer Science Faculty
+• Eyad Haj Said
+• Katherine Harris
+• Sohaib Kiani
+• Tom Stojsavljevic
+• Ben Stucky
+• Robin Zebrowski
+Computer Science Major (12 units)
+1. Nine departmental units: Computer Science 111, 175, 204, 245, 315, 335, 347, 367, and 377.
+2. One elective unit chosen from Data Science & Data Analytics 345 and 385, Mathematics 300, Cognitive
+Science 205 (when topic is appropriate and approved in advance by the department chair), or any other
+course approved in advance by the department chair and advisor.
+3. Two supporting units: Mathematics 110 and 160.
+4. Students planning to attend graduate school in computer science should consider taking more
+mathematics course, such as Probability and Statistics I (MATH 205), Linear Algebra (MATH 275), or
+Real Analysis (MATH 340), and should consult with an advisor for additional study that should be done.
+5. Successful graduates of the program should be able to speak and write efectively in order to
+communicate important ideas to diverse audiences. The program helps students develop these
+capabilities in the context of computer science through the progression in its courses. In written
+communication, students are expected to document their programming work via both internal and
+external documentation. In oral communication, students are expected to present all aspects of their
+work and efectively communicate in teams. In all forms of communication, students are expected to
+be able to address both technical and general audiences. The capstone experiences ofer an important
+opportunity to solidify and extend these skills as students prepare for their future work.
+6. Students majoring in computer science may choose to receive the Bachelor of Science degree rather
+than the Bachelor of Arts degree by completing a minimum of 4 units in biology, chemistry, geology,
+and/or physics.
+TABLE OF CONTENTS
+48
+
+[page 49]
+
+Computer Science Minor (6 units)
+1. Six departmental units:
+a. Two units of core courses: Computer Science 111 and 204.
+b. Four additional units of computer science courses chosen from 175, 245, 315, 335, 347, 367, and
+377. Cognitive Science 205 (when topic is appropriate), Data Science & Data Analytics 345, 385,
+or Mathematics 300 may be used toward this 1 unit if approved in advance by a computer science
+advisor or another course approved in advance by the department chair.
+Advanced Placement Credit for Computer Science
+Supplemental to the college’s general policies of Advanced Placement and Credit, the department of
+mathematics and computer science may grant additional placement (based on advising by faculty). The
+department does not grant placement for computer programming alone but for mastery of concepts and
+techniques of computer science.
+Departmental Honors in Computer Science
+The goals of departmental honors in Mathematics and Computer Science are:
+1. To encourage students to explore independently topics in mathematics or computer science outside
+the scope of our formal curriculum, and
+2. To enhance students’ abilities to communicate ideas in mathematics and computing.
+Honors in Computer Science is awarded on the basis of the following criteria.
+1. Academic achievement. The candidate must demonstrate high academic achievement across the
+College (cumulative GPA of at least 3.2) and in Computer Science (GPA of at least 3.2 in the major).
+2. Intention to apply: The candidate must submit an intention to apply for honors (in writing), including
+the list of courses that satisfy the requirements for the major, to the chair of the Mathematics and
+Computer Science Department no later than the last day to add one-unit courses for the last on-
+campus term as a regular full-time student.
+3. Project: An honors student in Computer Science engages in original research that demonstrates thor-
+ough knowledge of Computer Science. The project may be completed through
+• A summer research experience
+• An internship
+• An of campus study course
+• A Special Project (CSCI 390) of at least 0.5 unit, or a 0.25 unit Special Project that expands on one
+in CSCI 175 or higher.
+4. Presentation: An honors student in Computer Science must present their work to an external audience
+(on or of campus).
+5. Professional engagement: The candidate should demonstrate active engagement in the department or
+in the broader discipline of computer science and serve as a role model for respectful and professional
+behavior.
+6. The award of Honors in Computer Science requires designation by the faculty of the Department of
+Mathematics and Computer Science that the candidate’s project and presentation is of honors merit
+(one that demonstrates independence of thought, intellectual maturity, and an in-depth understanding
+of the research problem).
+Computer Science Courses
+CSCI 111. Introduction to Object-Oriented Programming (1). This course is a structured approach
+to algorithm development and problem solving using computer programming in an object-oriented
+programming language such as Java or Python. The course develops the concepts of procedural abstraction,
+program design, debugging, and testing in addition to teaching the standard features of a high-level
+computer programming language. Students will be introduced to the key concepts of object-oriented
+programming, including classes, inheritance, polymorphism, and interfaces. Societal issues related to
+computers (e.g. ethics, privacy, liability, and security) will also be discussed. (1S) Ofered each semester.
+TABLE OF CONTENTS
+49
+
+[page 50]
+
+CSCI 165. Web Design (.5). An introduction to the design, creation, and maintenance of web pages and
+websites. Students learn how to critically evaluate website quality, how to create and maintain web pages,
+how to design web page layout and efective site navigation, and learn about web design standards and
+their importance. The course includes implementation using HTML, CSS, and other basic tools for Web based
+construction. The course then continues with higher level tools, including page design tools, DHTML, and
+related tools. Some site management techniques are covered, accessibility issues and working with clients
+discussed. The course progresses from introductory work on web design to a culminating project, usually on
+a student-selected project or a site for a local community organization. Ofered occasionally. Prerequisite:
+junior standing.
+CSCI 170. General Topics in Computer Science (.25 - 1). Special topics applicable to a general audience.
+Course title and content vary, and the course may be repeated for credit when the title and content change.
+Ofered occasionally. Prerequisite: varies with topic.
+CSCI 175. Computer Architecture (1). The course introduces the organization of the physical components
+of the computer (hardware) and the interface between the hardware, specifcally via the Central Processing
+Unit (CPU), and the programs/instructions (software) that resulted in a functioning computational machine.
+In addition, the course introduces an in-depth study of the CPU in terms of its functional sub-units (Register
+File, Arithmetic and Logic Unit (ALU), datapath and control, pipelining) and interconnections, as well as in
+terms of its interface to memory and the external world. The course includes formal study of digital logic,
+Instruction Set Architecture (ISA), assembly language, memory hierarchy, and storage units. The course also
+explores alternative processor architecture and multiprocessing. Ofered every spring semester. Prerequisite:
+Computer Science 111.
+CSCI 204. Data Structures and Algorithms (1). Practical coverage of data structures with opportunities for
+software problem-solving. Covers linked-lists, skip lists, general and balanced trees, hashing, and graphs,
+together with algorithms and standard tools for their implementation, plus algorithms for diverse sorting
+methods and complexity analysis of algorithms. Students learn how to use abstractions of data structures
+in designing software for applied problems, to implement the details of algorithms in writing programs,
+and to analyze the tradeofs in choices of data structures and algorithms. Ofered each spring. Prerequisite:
+Computer Science 111.
+CSCI 245. Computer Networks (1). Introduces the concepts, design, and implementation of computer data
+communication networks, presenting both a service model and a layered-architecture model. The course
+examines the Internet and its services and protocols at the application, transport, network, and physical
+layer in terms of a client-server, socket-based model. The growth and control of the Internet and its social
+implications are also discussed. The principles of network, communications, and data security and integrity
+are presented. Ofered every third semester. Prerequisite: Computer Science 175.
+CSCI 265. Web Programming (.5). An introduction to programming techniques for the construction of
+dynamic web sites, and an introduction to Web application development. Students will learn to program
+in the building blocks of the web, including JavaScript (client-side), PHP or Python (server-side), and SQL
+(database communication). Additional technologies introduced include HTML forms, HTML5, the Document
+Object Model (DOM), XML, JSON, and AJAX. Students will work in teams to design, implement, and deploy
+a full-featured web application, either a pre-provided project or a personally designed project. Ofered
+occasionally. Prerequisites: Computer Science 204 and Computer Science 165, or permission of instructor.
+CSCI 270. Intermediate Topics in Computer Science (.25 - 1). Selected aspects of computer science
+refecting particular interests and experience of the instructor. Course title and content vary, and the course
+may be repeated for credit when the title and content change. Ofered occasionally. Prerequisite: varies with
+topic.
+CSCI 315. Algorithm Design and Analysis (1). The major classes of algorithms used across the diverse areas
+of computer science, including graph algorithms, pattern matching, graphical algorithms, parallel algorithms,
+encryption, and compression. General approaches to the design of algorithms, including divide-and-conquer,
+backtracking, dynamic programming, and transformation of problems. Further techniques for the analysis
+of the efciency of algorithms. An introduction to the abstract classes of problems: P (solvable), NP and
+NP-Complete (solvable but intractable), and unsolvable problems. Ofered every third semester. Prerequisite:
+Computer Science 204 and Mathematics 160.
+TABLE OF CONTENTS
+50
+
+[page 51]
+
+CSCI 335. Threads and Operating Systems (1). Overviews the basic techniques for threaded programs
+where multiple tasks share the computer resources as well as surveys the principles of modern operating
+systems. Topics covered include data races, deadlock, atomicity/mutual exclusion with implementation,
+communication between threads including shared memory and message passing, operating system design,
+hardware infuences, concurrency mechanisms, threads and processes, process states and diagrams,
+scheduling, context states and interrupts, memory management, fle systems, and examples from major
+contemporary operating systems. Actual threaded programming will be done. Ofered every third semester.
+Prerequisite: Computer Science 204.
+CSCI 347. Computer Models and Languages (1). To understand what a computer can and cannot do, we
+investigate diferent styles of languages used to program computers, study machine learning (where the
+computer partly programs itself) and construct abstract models of computers for a more formal analysis
+of their capabilities and limitations. The focus is on programming languages substantially diferent than the
+object-oriented languages students are expected to be familiar with. We investigate their capabilities and
+strengths, and how they are implemented. We learn the basic properties of the three main abstract classes
+of computers: Finite State Machines, Context-Free Grammars, and Turing Machines. We learn that some
+problems cannot be solved by computers and the implications of these unsolvable problems on computer
+technology. Ofered every third semester. Prerequisite: Computer Science 204.
+CSCI 367. Database Capstone (1). This course introduces relational database systems, including design,
+architecture, SQL, relational data modeling, entity-relationships, transactions, and reliability. The course
+also introduces information management systems, including human needs, indexing, quality issues, object-
+oriented model, and information representation and applications. Students will work in teams to design
+a database application, including testing, documentation, and review. Students will experience diferent
+roles in the team environment and continued presentation of work to the audiences. Appropriate software
+development tools will be learned and utilized. Students will study professional ethics and obligations. (CP).
+Ofered every year. Prerequisite: junior standing and Computer Science 204.
+CSCI 370. Advanced Topics in Computer Science (.25 - 1). Selected aspects of computer science refecting
+particular interests and experience of the instructor. Course title and content vary, and the course may be
+repeated for credit when the title and content change. Ofered occasionally. Prerequisite: varies with topic.
+CSCI 377. Software Engineering Capstone (1). This course studies modern techniques for using multiple
+teams to develop a single program. This includes programming techniques (e.g. test-driven development),
+professional tools (e.g. GitHub), and Scrum-based coordination. Historical approaches, such as the Waterfall
+Model, are discussed, but the focus is on modern versions of Agile Programming and user-story driven in-
+cremental development. This is a project-based course, with new projects for each ofering. Students attend
+weekly Scrum meetings, contribute regularly to the GitHub repository, design tests for both their own code
+and teammate’s code, and give a presentation on one of the standard design patterns. (CP) Prerequisites:
+Computer Science 204 and junior standing.
+CSCI 390. Special Project (.25 - 1). Individual, guided investigation of a problem or topic in computer
+science. Prerequisite: sophomore standing.
+CSCI 395. Teaching Assistant (.25, .5). Work with faculty in classroom instruction. Graded credit/no credit.
+Critical Identity Studies
+The Department of Critical Identity Studies (CRIS) aims to bring normative and non-normative identities and
+embodied lifeways (based on races, religions, genders, sexualities, dis/abilities, nations, etc.) across space
+and time into critical and constructive dialogue so as to integrate theories and practices that advance the
+work of equity and anti-racism at the college and beyond.
+Drawing on cross-disciplinary approaches to women’s and gender studies, ethnic studies, religious studies,
+disability studies, postcolonial studies, and more, CRIS students have ongoing opportunities to understand
+identity deeply, remake dominant knowledge paradigms, and practice what it means to transform
+themselves and their communities through self-refection and hands-on engagement within and outside the
+traditional classroom.
+TABLE OF CONTENTS
+51

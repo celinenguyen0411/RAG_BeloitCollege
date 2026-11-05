@@ -1,21 +1,23 @@
 id,kind,url,title,pages
-handbook-meal-plan,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Living on Campus Requirements,67
+handbook-vehicle-parking,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Vehicle Parking,81-83
 handbook-residency,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Living on Campus Requirements,66
 handbook-overnight-guests,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Overnight Guests,73
-handbook-pets,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Pets,73
+handbook-alcohol,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Alcohol,27-32
 handbook-lockout,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Lock-Out Policy,71
 handbook-room-changes,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Room Changes,76
 handbook-quiet-hours,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Noise-Quiet Hours,72
 handbook-account-holds,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Students Already Living on Campus,79
-handbook-mail-center,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Mail Center,79
-handbook-vending-machines,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Vending Machines,77
-catalog-data-science,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Data Science Major,57-58
-catalog-cs-honors,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Computer Science Departmental Honors,49
-catalog-biochemistry,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Biochemistry Major,33-34
-catalog-economics,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Economics Major,59-60
+handbook-emotional-support-animals,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Emotional Support Animals,57-60
+handbook-hazing,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Hazing,46-49
+handbook-class-attendence,pdf,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027, Student Handbook: Class Attendence,17-19
+catalog-data-science,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Data Science Major,56-59
+catalog-computer-science,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Computer Science,48-51
+catalog-biology,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Biology,35-41
+catalog-econ-requirements,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,Course Catalog: Business & Economics Requirements,59-61
+catalog-econ-courses,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,Course Catalog: Business & Economics Course Descriptions,62-66
 catalog-academic-residency,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Miller Upton Programs,190
 catalog-grading-policy,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Grading System and Incompletes,16-17
+catalog-fin-aid,pdf,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog, Course Catalog: Financial Aid, 213-217
 registrar-transfer-credits,html,https://www.beloit.edu/offices/registrar/transfer-ap-gce-ib-credit/, Registrar: Transfer Credit,N/A
 registrar-registration,html,https://www.beloit.edu/offices/registrar/course-registration/, Registrar: Registration Dropping and Waitlist,N/A
 registrar-graduation-requirements,html,https://www.beloit.edu/offices/registrar/graduation-requirements/ ,Registrar: College Graduation & Degree Requirements,N/A
-fin-aid-maintaining-aid,html,https://www.beloit.edu/offices/financial-aid/maintaining-aid/, Financial Aid: Maintaining Aid,N/A

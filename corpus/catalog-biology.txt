@@ -1,0 +1,366 @@
+id: catalog-biology
+title: Course Catalog: Biology
+source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
+kind: pdf pages 35-41
+retrieved: 2026-11-04
+------------------------------------------------------------
+[page 35]
+
+Biology Faculty
+• Rachel A. Bergstrom, PhD
+• Amy Briggs
+• Tawnya L. Cary
+• Yafa L. Grossman
+• Craig Kohn
+• Claire Milsted
+• Helen M. Werner
+Biochemistry Major (11 units)
+1. Nine units:
+a. Chemistry 117, 220, 230, and 235.
+b. Biology 110, 111, 121, 152, 172, or 208.
+c. Biology 247 and Biology 237, 256, 257, or 289.
+d. Biology/Chemistry 260 and 300.
+2. Two supporting units:
+a. Mathematics 110 or 115.
+b. Physics 101 or 102 or Geology 100, 105, or 110.
+3. Students majoring in biochemistry may choose to receive the Bachelor of Science degree rather than
+the Bachelor of Arts degree by completing a minimum of 4 units in biology, computer science, geology,
+mathematics, and/or physics.
+Biology Major (11.5 units)
+The biology major provides a broad background in biology at all scales of organization, from molecules to
+cells to organisms to ecological communities.
+1. Eight and a half departmental units:
+a. One organismal biology course chosen from Biology 110, 111, 121, 152, or 172.
+b. One experimental design and statistical analysis course: Biology 247.
+c. One molecular-to-cellular level course: Biology 289.
+d. Two population-to-ecosystem level biology course chosen from 210, 217, 275 (in consultation with
+advisor, when topic is appropriate), 365, 372, or 375 (in consultation with advisor, when topic is
+appropriate).
+e. Two additional units of biology courses numbered 200 or above.
+f. One additional unit of biology courses numbered 300 and above.
+g. Capstone: one additional course of biology with the CP designation.
+2. Three supporting units:
+a. One unit chosen from Chemistry 117, 150, 220, or 230.
+b. Two additional units chosen from courses in chemistry, computer science, geology, mathematics,
+physics or any of the following courses: Philosophy 100, Anthropology 230, 330.
+3. Students majoring in biology may choose to receive the Bachelor of Science degree rather than the
+Bachelor of Arts degree by completing a minimum of 4 units in chemistry, computer science, geology,
+mathematics, and/or physics.
+TABLE OF CONTENTS
+35
+
+[page 36]
+
+Environmental Biology Major (11.5 units)
+The environmental biology major provides a broad background in biology with a focus on how organisms
+interact with environments.
+1. Seven and a half departmental units:
+a. One organismal biology course chosen from Biology 110, 111, 121, 152, or 172.
+b. One experimental design and statistical analysis course: Biology 247.
+c. One molecular-to-cellular level course: Biology 289.
+d. Two population-to-ecosystem level biology course chosen from 210, 217, 275 (in consultation with
+advisor, when topic is appropriate), 365, 372, or 375 (in consultation with advisor, when topic is
+appropriate).
+e. One additional unit of biology courses numbered 200 or above.
+f. One additional unit of biology courses numbered 300 or above.
+g. Capstone: one additional course of biology with the CP designation.
+3. Four supporting units:
+a. One unit chosen from Chemistry 117, 150, 220, or 230.
+b. Three additional units with the Environmental Studies prefx (ENVS), Journalism 225 (when topic is
+environmental writing), or Political Science 255.
+3. Students majoring in environmental biology may choose to receive the Bachelor of Science degree
+rather than the Bachelor of Arts degree by completing a minimum of 4 units in chemistry, computer
+science, geology, mathematics, and/or physics.
+Biology Minor (6 units)
+The biology minor focuses on the mechanisms by which organisms regulate life processes, grow and
+develop, reproduce, and behave.
+1. Five departmental units.
+a. At least one organismal biology course chosen from: Biology 110, 111, 121, 152, 172, or 208.
+b. At least one unit of molecular-to-cellular biology chosen from: Biology 208, 215, 237, 256, 257, 260,
+275 (in consultation with advisor, when topic is appropriate), 289, 300, 340, 345, 347, 360, or 375 (in
+consultation with advisor, when topic is appropriate).
+c. At least one unit of population-to ecosystem biology chosen from: Biology 210, 217, 365, 372, or 375
+(in consultation with advisor, when topic is appropriate).
+2. One supporting unit chosen from chemistry, computer science, geology, mathematics, or physics.
+Additionally:
+1. The minor is not open to majors in biology, biochemistry, or applied chemistry (with biology as a
+complementary discipline).
+2. No more than 2 units taken to satisfy requirements for a major or another minor may count toward the
+biology minor.
+3. No course may satisfy two requirements for the minor.
+Departmental Honors in Biology
+Students may apply to be considered for departmental honors if they have:
+1. a strong B average in biology (BIOL) courses,
+2. have completed an independent research project equivalent to 1 unit, and
+3. have made a formal public oral presentation on campus (e.g. Symposium Day, McNair Symposium) or
+a poster or oral presentation at a regional, national, or international conference; on-campus poster
+presentations and oral presentations in classes do not fulfll the presentation requirement.
+TABLE OF CONTENTS
+36
+
+[page 37]
+
+Notes for Biology Majors
+No course may satisfy two requirements for a biology major.
+Students who complete a biology major may graduate with the Bachelor of Arts degree. Students who wish
+to graduate with the Bachelor of Science degree must complete a minimum of 4 units in science and/or
+mathematics and/or computer science outside of the biology department.
+Students anticipating graduate study or a medical career are urged to include the following courses in their
+undergraduate preparation:
+1. Chemistry 117 or 150, 220, 230, 235
+2. Mathematics 110, 115
+3. Physics 101, 102
+Additional courses (e.g. Chemistry 240, 245, 300 and Mathematics 275) may be appropriate for graduate
+work in biology. Many graduate schools and some professional schools require knowledge of a non-English
+language (e.g. Spanish, French, Japanese, or Russian) for admission to their programs.
+Students anticipating careers in the health professions are strongly encouraged to complete Sociology 275,
+Philosophy 221, and 2 units in literature and composition. Depending on the specifc goal of the student and
+the requirements of potential professional or graduate programs, various additional courses in the sciences
+and other departments may be relevant and appropriate.
+Biology Courses
+BIOL 110. Introductory Biology: Human Biology (1). Students in this course learn practical skills related to
+doing biology, including experimental design, collection and evaluation of quantitative data, collaboration
+with peers, and scientifc communication. Students also learn the fve core concepts of biology (evolution,
+systems, structure/function, energy transfer, and information transfer) within the context of the human
+body. This course is an exploration of the anatomy and basic normal functions of the human body with
+consideration of development, genetics, immunology, endocrinology, and related molecular, cellular, and
+ecological concepts. Students design, perform, analyze, and report on small research projects. Laboratory
+work may require dissection. Three two- hour lecture-laboratory periods per week. (4U) Ofered yearly.
+BIOL 111. Introductory Biology: Zoology (1). Students in this course learn practical skills related to doing
+biology, including experimental design, collection and evaluation of quantitative data, collaboration with
+peers, and scientifc communication. Students also learn the fve core concepts of biology (evolution,
+systems, structure/function, energy transfer, and information transfer) within the context of animals.
+This course is an exploration of the animal kingdom with consideration of molecular and cellular biology,
+genetics, structure and function, ecology, evolution, and behavior of invertebrates and vertebrates. Students
+design, perform, analyze, and report on small research projects. Laboratory work requires dissection. Three
+two-hour lecture-laboratory periods per week. (4U) Ofered every other year.
+BIOL 121. Introductory Biology: Botany (1). Students in this course learn practical skills related to doing
+biology, including experimental design, collection and evaluation of quantitative data, collaboration with
+peers, and scientifc communication. Students also learn the fve core concepts of biology (evolution,
+systems, structure/function, energy transfer, and information transfer) within the context of plants.
+This course is an exploration of the morphology, physiology, cell biology, and genetics of plants with
+consideration of how they difer from other organisms, how they are adapted to diferent environments,
+and their function in ecosystems and human society. Students design, perform, analyze, and report on small
+research projects. Three two-hour lecture-laboratory periods per week. (4U) Ofered yearly.
+BIOL 152. Introductory Biology: Aquatic Biology (1). Students in this course learn practical skills related to
+doing biology, including experimental design, collection and evaluation of quantitative data, collaboration
+with peers, and scientifc communication. Students also learn the fve core concepts of biology (evolution,
+systems, structure/function, energy transfer, and information transfer) within the context of freshwater
+and marine organisms. This course is an exploration of all types of aquatic ecosystems, the evolutionary
+relationships, ecology, structure and function, and behavior of the organisms that live there, and
+TABLE OF CONTENTS
+37
+
+[page 38]
+
+contemporary issues in aquatic biology, including how human infuences have altered aquatic ecosystems
+over time. Students design, perform, analyze, and report on small research projects. Laboratory work
+requires dissection. Three two-hour lecture-laboratory periods per week. (4U) Ofered every other year.
+BIOL 172. Introductory Biology: Topics (1). Students in this course learn practical skills related to doing
+biology, including experimental design, collection and evaluation of quantitative data, collaboration with
+peers, and scientifc communication. Students also learn the fve core concepts of biology (evolution,
+systems, structure/function, energy transfer, and information transfer). Students design, perform, analyze,
+and report on small research projects. Three two-hour lecture-laboratory periods per week.(4U) Ofered
+occasionally.
+BIOL 208. Microbiology (1). An exploration and application of biological concepts through examination of
+the structure, genetics, physiology, and culture of microorganisms with emphasis on bacteria and viruses.
+The course stresses scientifc principles and experimental methods in the context of disease and the
+environment. Students design, perform, analyze, and report on small research projects. Three two-hour
+lecture-laboratory periods per week. (4U) Ofered yearly. Prerequisite: one college-level biology course.
+BIOL 210. Paleontology (1). The history of life from its origins to the present. The preservation, distribution,
+and identifcation of invertebrate fossils as well as selected vertebrate and plant fossils. Competing
+evolutionary theories are evaluated in the perspective of geologic time. Fossils are studied as once-living
+organisms that were adapting to changing environments and part of a biological community. Lecture,
+discussion, laboratory, and feld study. One weekend feld trip. (Also listed as Geology 210.) Ofered alternate
+years. Prerequisite: Geology 100, 105, or 110 or Anthropology 120 or 1 course in Biology.
+BIOL 215. Emerging Diseases (1). An exploration of the relationships between microorganisms, environment,
+and diseases. General principles of genetics and evolution, as well as historical and political factors, are
+examined in an efort to explain the emergence of new diseases. Laboratory experiences include basic
+microbiology, data analysis, simulations, and survey research. Small groups of students design, perform,
+analyze, and report on a research project. Three two-hour lecture-laboratory periods per week. (4U) Ofered
+yearly. Prerequisite: one college-level biology course.
+BIOL 217. Evolution (1). An exploration of descent with modifcation and the evolutionary history of life on
+earth. The history and philosophy of evolutionary theory, the genetic basis of microevolution, contemporary
+hypotheses of speciation, and phylogenetic systematics comprise the major course material. Small groups of
+students design, perform, analyze, and report on a research project. Three two-hour lecture-laboratory peri-
+ods or three lecture-discussion class periods and one laboratory period per week. Occasional Saturday feld
+trips may be required. (4U) Ofered occasionally. Prerequisite: one of the following: one college-level biology
+course, Anthropology 120, Geology 210, or consent of instructor.
+BIOL 220. Conservation Biology (1). This course explores the study and practice of conservation biology,
+a feld that endeavors to understand and retain biological diversity at local, regional, and global scales.
+Students examine the nature of biological diversity, the efects of human activities on biological diversity,
+and the management and restoration strategies for ameliorating these threats. Students read research
+literature on conservation eforts at the population, community, and ecosystem levels, and learn to use
+quantitative models to predict changes in population size. Through writing and oral presentations, students
+develop their professional communication skills focused on environmental policy recommendations. Ofered
+occasionally. Prerequisite: one college-level biology course.
+BIOL 237. Cell Biology (1). A comprehensive analysis of cell structure and function and the molecular
+mechanisms that regulate cellular physiology, with a focus on eukaryotic cell biology. Topics include:
+origin and evolution of cells and cellular organelles, structure, synthesis, and regulation of biomolecules,
+membrane structure and transport, the cytoskeleton, the extracellular matrix and cell adhesion, cell motility,
+cell signaling, cell division and cell cycle regulation, cancer and cell stress, aging, and death. Small groups
+of students design, perform, analyze, and report on a research project. Three two-hour lecture-laboratory
+periods or three one-hour lecture-discussion class periods and one laboratory period per week. (4U) Ofered
+yearly. Prerequisite: one college-level biology course or consent of the instructor.
+TABLE OF CONTENTS
+38
+
+[page 39]
+
+BIOL 247. Biometrics (1). The application of statistical methods to the solution of biological problems.
+Experimental design, sampling methods, and statistical analysis of data using both parametric and
+nonparametric methods are introduced. Computer-supported statistical packages are used in laboratory
+exercises. Small groups of students design, perform, analyze, and report on a research project. Three two-
+hour lecture-laboratory periods per week. Ofered each semester. Prerequisite: one college-level biology
+course and at least sophomore standing, or consent of instructor.
+BIOL 256. Anatomy (1). An investigation of human anatomy evaluated by functional analysis in an
+evolutionary context by comparing similarities and diferences among vertebrates. Anatomy of human
+development is also emphasized. Laboratory work requires dissection. Ofered occasionally. Prerequisite:
+One biology course and one chemistry course at the college level are required, and a statistics course is
+preferred, or consent of instructor.
+BIOL 257. Human Physiology (1). An investigation of physiological concepts, such as structure-function
+relationships and homeostasis, in the human body. While the primary focus of this course is the regulation
+of human physiological systems in normal and diseased states, animal models are used for comparative
+analysis. Students are required to prepare oral and written presentations, as well as conduct and present
+a group research project. Laboratory work requires dissection. Ofered yearly. Prerequisite: Biology 247,
+Chemistry 117, and at least 1 additional college-level biology course, or consent of instructor.
+BIOL 260. Nutrition and Metabolism: Biochemical Mechanisms (1). Molecular biology, bioenergetics,
+and regulation of cellular processes. Metabolism of carbohydrates, lipids, amino acids, and nucleic acids.
+Laboratory experiments investigate metabolism and electron transport utilizing techniques for preparation
+and purifcation of enzymes, carbohydrates, and lipids. Three class periods and one laboratory period per
+week. (Also listed as Chemistry 260.) Ofered each spring. Prerequisite: Chemistry 230 and either any
+college-level biology course or Chemistry 235.
+BIOL 275. Topics in Biology (.5, 1). Topics vary. Designed to pursue topics in biology. May be repeated for
+credit if topic is diferent. Ofered occasionally. Prerequisite: established individually for each ofering.
+BIOL 289. Genetics and Evolution (1). An investigation of Mendelian, population, quantitative, and molecular
+genetics using a problem-solving approach. Small groups of students design, perform, analyze, and report
+on a research project. Three lecture-discussion class periods and one laboratory period per week. Ofered
+each fall. Prerequisite: one college-level biology course and Biology 247 (concurrent enrollment permitted)
+or consent of instructor.
+BIOL 300. Protein Biochemistry (1). At the fundamental chemical level, how do cells maintain and extract
+information from DNA to build and utilize proteins? Considerable emphasis on the chemical basis of
+biological information storage and processing, structure and function of proteins, enzyme catalysis theory,
+and quantitative analysis of enzyme kinetics. Three class periods and one lab period per week. (CP) (Also
+listed as Chemistry 300.) Ofered each fall. Prerequisite: Chemistry 220, 235, and either any college-level
+biology course or Chemistry 240.
+BIOL 340. Neuroscience (.5, 1). A structure/function-based analysis of the nervous system from
+molecules to systems. The course will investigate cellular neuroscience, neuroanatomy, neurophysiology,
+neurotransmission, and sensory and motor systems organization to understand information integration
+within the nervous system. Laboratory exercises may include anatomy, physiological measurements of
+neural conduction, cell biology techniques, dissection, and experiments with mice. Students improve their
+understanding of a specifc topic of neuroscience by working in small groups to conduct and present a
+research project. (CP) Ofered occasionally. Prerequisite: Biology 247 or another statistics course, Chemistry
+117, and at least 1 of the following courses: Biology 237, 256, 257, 260, 289, 300, 345, Chemistry 260, 300, or
+consent of instructor.
+BIOL 347. Food Microbiology (1). An investigation of the molecular, physiological, and ecological
+mechanisms of bacterial and archaeal microbes that are relevant to the production, preservation,
+and spoilage of foods. Topics may include: foodborne diseases, principles of food preservation, food
+spoilage, and foods produced by microbes. Students will learn methods of microbe isolation, culturing,
+and identifcation in the lab and use these methods to analyze foods made in the kitchen. (CP) Ofered
+occasionally. Prerequisite: three college-level biology courses.
+TABLE OF CONTENTS
+39
+
+[page 40]
+
+BIOL 358. Pathology (1). A topics based investigation of pathophysiological concepts which will explore
+the diferent etiologies and expressions of human pathology. The course will focus on the breakdown of the
+structure/function relationship and will integrate concepts from human anatomy and physiology as well as
+microbiology and molecular biology. Laboratory exercises will be group-based and will include dissections,
+molecular biological techniques, and microscope work. Students will work through diferent practical
+cases to practice the integration of theory with practice. Ofered every other year. Prerequisite: Biometrics
+(Biology 247).
+BIOL 360. Microbes to Molecules: Antibiotic Discovery (1). This course explores the chemistry of antibiot-
+ics, including their chemical structures, mechanisms of antibiotic action, mechanisms of bacterial resistance,
+methods of drug discovery, and stewardship and policy. Students engage in critical reading and discussion
+of scientifc literature. During the laboratory component of the course, students discover and characterize
+antibiotic-producing bacteria from soil. Techniques include aseptic microbiological work, PCR and introduc-
+tory bioinformatics (BLAST, and antiSMASH), chemical extraction, and biochemical assays. Students engage
+in experimental design during a semester-long research project and communicate their fndings by prepar-
+ing and presenting a poster about their research project. (CP) (Also listed as Chemistry 360.) Ofered every
+other spring. Prerequisite: one 200-level biology course, Chemistry 230, and junior or senior standing, or
+consent of instructor.
+BIOL 365. Ecotoxicology (1). This advanced biology course is an introduction to the feld of ecotoxicology.
+Like its name, the feld of ecotoxicology is an integration of biological sub-disciplines, with the focus of
+how environmental chemicals afect organisms situated within the context of an ecosystem. Topics include
+sources, transport, fate, accumulation, and toxicity of contaminants. Students also discuss toxicity testing
+and analysis of efects at diferent levels of biological organization (molecular to ecosystem). Throughout
+the semester, students read and discuss a variety of published ecotoxicology literature, as well as engage
+in hands-on activities to emphasize scientifc process and techniques. (CP) Prerequisite: junior or senior
+standing, Biology 247, two other college-level biology courses, and one college-level chemistry course, or
+consent of instructor.
+BIOL 372. Ecology (1). An investigation of the study of interactions among organisms and interactions
+between organisms and the nonliving environment. Ecologists study these interactions to understand the
+patterns of organism abundance and distribution of organisms that occur in diferent ecosystems. In this
+course, students examine these interactions at the population, community, ecosystem, and landscape levels
+through classroom, feld, and laboratory activities. Contemporary questions about sustainability, biological
+diversity, and global change will be examined at each of these levels using quantitative methods. Students
+design, perform, analyze, and report on a major research project. Three lecture-discussion class periods
+and one laboratory period per week. (CP) Ofered every other year. Prerequisite: junior or senior standing,
+2 college-level biology courses and a statistics course (Biology 247, Mathematics 106, Anthropology 240,
+Psychology 162, or Sociology 205), or consent of instructor.
+BIOL 375. Advanced Topics in Biology. (.5, 1). Topics vary. Designed to pursue advanced topics in
+biology. May be repeated for credit if topic is diferent. (CP) Ofered occasionally. Prerequisite: established
+individually for each ofering.
+BIOL 391. Directed Readings in Biology (.5, 1). Individual study under faculty supervision. Prerequisite:
+sophomore standing; consent of faculty supervisor and chair of biology department.
+BIOL 392. Independent Research in Biology (.25 - 1). Research project conducted by a student with
+supervision by a faculty member. Prerequisite: sophomore standing; consent of faculty supervisor and chair
+of biology department.
+BIOL 395. Teaching Assistant (.5). Work with faculty in classroom and laboratory instruction. Graded credit/
+no credit. Prerequisite: sophomore standing; consent of faculty supervisor and chair of biology department.
+BIOL 396. Teaching Assistant Research (.5). Course, laboratory, and curriculum development projects with
+faculty. Prerequisite: sophomore standing; consent of faculty supervisor and chair of biology department.
+TABLE OF CONTENTS
+40
+
+[page 41]
+
+BIOL 398. Professional Experience (Non-Credit). An opportunity to acknowledge on a student’s permanent
+transcript experience as a teaching assistant, in the preparation or design of laboratory materials, or as a
+research assistant. Prerequisite: consent of faculty supervisor; consent of faculty supervisor and chair of
+biology department.
+Chemistry
+The study of chemistry provides an atomic/molecular basis for understanding the world. Hands-on, inquiry-
+based experiences that ask students to construct their own knowledge and communicate it to others lead to
+a deep understanding of chemical concepts.
+Our philosophy is that students should learn chemistry by doing what chemists actually do, using
+sophisticated instruments and techniques that practicing chemists use from the start, providing molecular-
+level insight to reinforce an understanding of the macroscopic behavior of materials, and gaining facility in
+their symbolic representation.
+Chemists are often key players who work together in interdisciplinary teams that address important
+questions in medicine, environmental issues, biotechnology, and nanotechnology.
+Chemistry Faculty
+• Christine Hustmyer
+• Kristin J. Labby
+• George Lisensky
+• Corbin Livingston
+Applied Chemistry Major (11 units)
+1. Seven units from this list, with at least 1 unit from each of four of the fve branches of chemistry. Chemis-
+try 117 may be used as 1 of the 7 units.
+a. Analytical Chemistry: 220, 225
+b. Organic Chemistry: 230, 235
+c. Physical Chemistry: 240, 245
+d. Inorganic Chemistry: 150, 250
+e. Biochemistry: 260, 300
+2. Four supporting units:
+a. Mathematics 110 or 115
+b. Physics 101 or 102
+c. Two additional units in a complementary discipline as approved by petition to the department chair.
+3. Students majoring in applied chemistry may choose to receive the Bachelor of Science degree rather
+than the Bachelor of Arts degree by completing a minimum of 4 units in biology, computer science,
+geology, mathematics, and/or physics.
+Biochemistry Major (11 units)
+1. Nine units:
+a. Chemistry 117, 220, 230, and 235.
+b. Biology 110, 111, 121, 152, 172, or 208.
+c. Biology 247 and Biology 237, 256, 257, or 289.
+d. Biology/Chemistry 260 and 300.
+2. Two supporting units:
+a. Mathematics 110 or 115.
+b. Physics 101 or 102 or Geology 100, 105, or 110.
+3. Students majoring in biochemistry may choose to receive the Bachelor of Science degree rather than
+the Bachelor of Arts degree by completing a minimum of 4 units in biology, computer science, geology,
+mathematics, and/or physics.
+TABLE OF CONTENTS
+41

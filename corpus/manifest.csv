@@ -1,21 +1,23 @@
 id,title,source,kind,pages,words,chars,retrieved
-handbook-meal-plan,Student Handbook: Living on Campus Requirements,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,67,450,2792,2026-10-29
-handbook-residency,Student Handbook: Living on Campus Requirements,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,66,446,2934,2026-10-29
-handbook-overnight-guests,Student Handbook: Overnight Guests,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,73,440,2625,2026-10-29
-handbook-pets,Student Handbook: Pets,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,73,440,2625,2026-10-29
-handbook-lockout,Student Handbook: Lock-Out Policy,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,71,511,3225,2026-10-29
-handbook-room-changes,Student Handbook: Room Changes,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,76,490,2984,2026-10-29
-handbook-quiet-hours,Student Handbook: Noise-Quiet Hours,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,72,511,2993,2026-10-29
-handbook-account-holds,Student Handbook: Students Already Living on Campus,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,79,404,2580,2026-10-29
-handbook-mail-center,Student Handbook: Mail Center,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,79,404,2580,2026-10-29
-handbook-vending-machines,Student Handbook: Vending Machines,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,77,434,2708,2026-10-29
-catalog-data-science,Course Catalog: Data Science Major,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,57-58,1196,7572,2026-10-29
-catalog-cs-honors,Course Catalog: Computer Science Departmental Honors,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,49,553,3616,2026-10-29
-catalog-biochemistry,Course Catalog: Biochemistry Major,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,33-34,793,5235,2026-10-29
-catalog-economics,Course Catalog: Economics Major,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,59-60,890,5612,2026-10-29
-catalog-academic-residency,Course Catalog: Miller Upton Programs,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,190,708,4790,2026-10-29
-catalog-grading-policy,Course Catalog: Grading System and Incompletes,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,16-17,1293,7986,2026-10-29
-registrar-transfer-credits,Registrar: Transfer Credit,https://www.beloit.edu/offices/registrar/transfer-ap-gce-ib-credit/,html,N/A,1794,11158,2026-10-29
-registrar-registration,Registrar: Registration Dropping and Waitlist,https://www.beloit.edu/offices/registrar/course-registration/,html,N/A,1023,6283,2026-10-29
-registrar-graduation-requirements,Registrar: College Graduation & Degree Requirements,https://www.beloit.edu/offices/registrar/graduation-requirements/,html,N/A,2353,15738,2026-10-29
-fin-aid-maintaining-aid,Financial Aid: Maintaining Aid,https://www.beloit.edu/offices/financial-aid/maintaining-aid/,html,N/A,228,1431,2026-10-29
+handbook-vehicle-parking,Student Handbook: Vehicle Parking,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,81-83,1466,8716,2026-11-04
+handbook-residency,Student Handbook: Living on Campus Requirements,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,66,446,2934,2026-11-04
+handbook-overnight-guests,Student Handbook: Overnight Guests,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,73,440,2625,2026-11-04
+handbook-alcohol,Student Handbook: Alcohol,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,27-32,2506,15799,2026-11-04
+handbook-lockout,Student Handbook: Lock-Out Policy,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,71,511,3225,2026-11-04
+handbook-room-changes,Student Handbook: Room Changes,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,76,490,2984,2026-11-04
+handbook-quiet-hours,Student Handbook: Noise-Quiet Hours,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,72,511,2993,2026-11-04
+handbook-account-holds,Student Handbook: Students Already Living on Campus,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,79,404,2580,2026-11-04
+handbook-emotional-support-animals,Student Handbook: Emotional Support Animals,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,57-60,1697,10728,2026-11-04
+handbook-hazing,Student Handbook: Hazing,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,46-49,1423,9191,2026-11-04
+handbook-class-attendence,Student Handbook: Class Attendence,https://www.beloit.edu/live/files/1113-student-handbook-2026-2027,pdf,17-19,1378,8835,2026-11-04
+catalog-data-science,Course Catalog: Data Science Major,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,56-59,2147,13797,2026-11-04
+catalog-computer-science,Course Catalog: Computer Science,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,48-51,2407,16654,2026-11-04
+catalog-biology,Course Catalog: Biology,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,35-41,3770,26481,2026-11-04
+catalog-econ-requirements,Course Catalog: Business & Economics Requirements,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,59-61,1348,8578,2026-11-04
+catalog-econ-courses,Course Catalog: Business & Economics Course Descriptions,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,62-66,3252,22895,2026-11-04
+catalog-academic-residency,Course Catalog: Miller Upton Programs,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,190,708,4790,2026-11-04
+catalog-grading-policy,Course Catalog: Grading System and Incompletes,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,16-17,1293,7986,2026-11-04
+catalog-fin-aid,Course Catalog: Financial Aid,https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog,pdf,213-217,2517,16099,2026-11-04
+registrar-transfer-credits,Registrar: Transfer Credit,https://www.beloit.edu/offices/registrar/transfer-ap-gce-ib-credit/,html,N/A,1794,11158,2026-11-04
+registrar-registration,Registrar: Registration Dropping and Waitlist,https://www.beloit.edu/offices/registrar/course-registration/,html,N/A,1023,6283,2026-11-04
+registrar-graduation-requirements,Registrar: College Graduation & Degree Requirements,https://www.beloit.edu/offices/registrar/graduation-requirements/,html,N/A,2353,15738,2026-11-04
