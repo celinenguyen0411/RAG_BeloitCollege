@@ -2,7 +2,7 @@ id: catalog-fin-aid
 title: Course Catalog: Financial Aid
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 213-217
-retrieved: 2026-11-04
+retrieved: 2026-11-05
 ------------------------------------------------------------
 [page 213]
 

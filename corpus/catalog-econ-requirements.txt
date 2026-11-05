@@ -2,7 +2,7 @@ id: catalog-econ-requirements
 title: Course Catalog: Business & Economics Requirements
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 59-61
-retrieved: 2026-11-04
+retrieved: 2026-11-05
 ------------------------------------------------------------
 [page 59]
 

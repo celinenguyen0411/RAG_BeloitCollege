@@ -2,7 +2,7 @@ id: registrar-graduation-requirements
 title: Registrar: College Graduation & Degree Requirements
 source: https://www.beloit.edu/offices/registrar/graduation-requirements/
 kind: html pages N/A
-retrieved: 2026-11-04
+retrieved: 2026-11-05
 ------------------------------------------------------------
 Related Links
 Graduation Requirements
