@@ -304,6 +304,19 @@ def selftest():
     print("Run embed_test.py to check those.")
 
 
+# ------------------------------------------------------------- GOLD QUESTIONS
+GOLD_QUESTIONS = [
+    "Under the repeat policy applicable from Fall 2023 onward, can I repeat a course in which I earned a D+, and which attempt counts toward my GPA and earned units?",
+    "What three academic progress standards determine continued financial-aid eligibility?",
+    "How many units can be double counted if a student majoring in Data Science or Data Analytics pursues another major or minor?",
+    "What initial steps must a student take to resolve a roommate or floor mate conflict before a room change can be approved?",
+    "What is Beloit's normal course load, and how many units ordinarily count as full-time enrollment?",
+    "Can a student use Advanced Placement (AP) credit to fulfill the Quantitative Reasoning (\"Q\") or Writing (\"W\") general education skills requirements for graduation?",
+    "How do the capstone requirements and off-campus/transfer unit allowances compare between the Economics major and the Data Science major?",
+    "I missed the drop deadline, but I'm still getting a D. Can I get out of the class without it just becoming an F?",
+    "I locked myself out of my room on a Saturday night at 11 PM. Who am I supposed to call to get back in?",
+    "What is my exact personal financial-aid award for next semester?"
+]
 # ------------------------------------------------------------------ main
 
 def main():
@@ -316,9 +329,8 @@ def main():
     if args.selftest:
         selftest()
         return
-    if not args.question:
-        ap.error("give a question, or use --selftest")
 
+    # Load corpus and embeddings
     docs = load_documents()
     texts, sources = build_chunks(docs)
     print(f"{len(docs)} documents, {len(texts)} chunks")
@@ -328,22 +340,43 @@ def main():
     embed_client, chat_client = get_clients()
     matrix = load_or_embed(embed_client, texts)
 
-    out = answer_question(embed_client, chat_client, matrix, texts, sources,
-                          args.question, args.k)
+    # OPTION A: Single question passed in command line (e.g., python pipeline.py "What is GPA?")
+    if args.question:
+        out = answer_question(embed_client, chat_client, matrix, texts, sources,
+                              args.question, args.k)
+
+        print("\n" + "=" * 70)
+        print("QUESTION:", out["question"])
+        print("\nRETRIEVED:")
+        for src, score in out["retrieved"]:
+            print(f"  {score:.4f}  {src}")
+        print("\nPROMPT SENT TO THE MODEL:")
+        print("-" * 70)
+        print(out["prompt"])
+        print("-" * 70)
+        print("\nANSWER:")
+        print(json.dumps({k: out[k] for k in
+                          ("answer", "quote", "source", "answerable")}, indent=2))
+        print("\nquote actually present in a retrieved chunk:", out["quote_verified"])
+        return
+
+    # OPTION B: No question passed -> AUTOMATICALLY RUN ALL GOLD QUESTIONS!
+    print(f"\n--- Running Pipeline on {len(GOLD_QUESTIONS)} Gold Questions ---")
+    all_results = []
+
+    for i, q in enumerate(GOLD_QUESTIONS, 1):
+        print(f"\n[{i}/{len(GOLD_QUESTIONS)}] Processing: {q}")
+        out = answer_question(embed_client, chat_client, matrix, texts, sources, q, args.k)
+        all_results.append(out)
+
+    # Save all output to eval_results.json
+    with open("eval_results.json", "w", encoding="utf-8") as f:
+        json.dump(all_results, f, indent=2)
 
     print("\n" + "=" * 70)
-    print("QUESTION:", out["question"])
-    print("\nRETRIEVED:")
-    for src, score in out["retrieved"]:
-        print(f"  {score:.4f}  {src}")
-    print("\nPROMPT SENT TO THE MODEL:")
-    print("-" * 70)
-    print(out["prompt"])
-    print("-" * 70)
-    print("\nANSWER:")
-    print(json.dumps({k: out[k] for k in
-                      ("answer", "quote", "source", "answerable")}, indent=2))
-    print("\nquote actually present in a retrieved chunk:", out["quote_verified"])
+    print(f"Done! Evaluated {len(all_results)} questions.")
+    print("Results saved to 'eval_results.json'")
+    print("=" * 70)
 
 
 if __name__ == "__main__":
