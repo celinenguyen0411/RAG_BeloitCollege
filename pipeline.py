@@ -22,6 +22,7 @@ the ones you are expected to examine, justify, or change for yourselves.
 """
 import argparse, hashlib, json, os, sys
 from pathlib import Path
+import time
 
 CORPUS = Path("corpus")
 CACHE = Path(".embeddings.npz")
@@ -303,20 +304,6 @@ def selftest():
     print("\nall plumbing checks passed. Vertex calls are NOT covered by this.")
     print("Run embed_test.py to check those.")
 
-
-# ------------------------------------------------------------- GOLD QUESTIONS
-GOLD_QUESTIONS = [
-    "Under the repeat policy applicable from Fall 2023 onward, can I repeat a course in which I earned a D+, and which attempt counts toward my GPA and earned units?",
-    "What three academic progress standards determine continued financial-aid eligibility?",
-    "How many units can be double counted if a student majoring in Data Science or Data Analytics pursues another major or minor?",
-    "What initial steps must a student take to resolve a roommate or floor mate conflict before a room change can be approved?",
-    "What is Beloit's normal course load, and how many units ordinarily count as full-time enrollment?",
-    "Can a student use Advanced Placement (AP) credit to fulfill the Quantitative Reasoning (\"Q\") or Writing (\"W\") general education skills requirements for graduation?",
-    "How do the capstone requirements and off-campus/transfer unit allowances compare between the Economics major and the Data Science major?",
-    "I missed the drop deadline, but I'm still getting a D. Can I get out of the class without it just becoming an F?",
-    "I locked myself out of my room on a Saturday night at 11 PM. Who am I supposed to call to get back in?",
-    "What is my exact personal financial-aid award for next semester?"
-]
 # ------------------------------------------------------------------ main
 
 def main():
@@ -335,12 +322,12 @@ def main():
     texts, sources = build_chunks(docs)
     print(f"{len(docs)} documents, {len(texts)} chunks")
     if len(texts) < 150:
-        print(f"  WARNING: {len(texts)} chunks is under the 150 floor")
+        print(f"    WARNING: {len(texts)} chunks is under the 150 floor")
 
     embed_client, chat_client = get_clients()
     matrix = load_or_embed(embed_client, texts)
 
-    # OPTION A: Single question passed in command line (e.g., python pipeline.py "What is GPA?")
+    # OPTION A: Single question passed in command line
     if args.question:
         out = answer_question(embed_client, chat_client, matrix, texts, sources,
                               args.question, args.k)
@@ -360,18 +347,45 @@ def main():
         print("\nquote actually present in a retrieved chunk:", out["quote_verified"])
         return
 
-    # OPTION B: No question passed -> AUTOMATICALLY RUN ALL GOLD QUESTIONS!
-    print(f"\n--- Running Pipeline on {len(GOLD_QUESTIONS)} Gold Questions ---")
+# OPTION B: No question passed -> LOAD & RUN ALL GOLD QUESTIONS FROM JSON!
+    json_path = "gold_dataset.json"
+    
+    try:
+        with open(json_path, "r", encoding="utf-8") as f:
+            gold_dataset = json.load(f)
+    except FileNotFoundError:
+        print(f"ERROR: Could not find '{json_path}'. Make sure it is saved in your project root folder.")
+        return
+
+    print(f"\n--- Running Pipeline on {len(gold_dataset)} Gold Questions ---")
     all_results = []
 
-    for i, q in enumerate(GOLD_QUESTIONS, 1):
-        print(f"\n[{i}/{len(GOLD_QUESTIONS)}] Processing: {q}")
-        out = answer_question(embed_client, chat_client, matrix, texts, sources, q, args.k)
+    for i, item in enumerate(gold_dataset, 1):
+        q = item["question"]
+        expected_doc = item.get("expected_doc", "")
+
+        print(f"\n[{i}/{len(gold_dataset)}] Processing: {q}")
+        
+        # Retry loop inside main keeps professor's generate() untouched
+        while True:
+            try:
+                out = answer_question(embed_client, chat_client, matrix, texts, sources, q, args.k)
+                break
+            except Exception as e:
+                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                    print("  [Rate Limit 429] Waiting 15s for quota window to reset...")
+                    time.sleep(15)
+                else:
+                    raise e
+
+        out["expected_doc"] = expected_doc
         all_results.append(out)
 
-    # Save all output to eval_results.json
-    with open("eval_results.json", "w", encoding="utf-8") as f:
-        json.dump(all_results, f, indent=2)
+        # Save progress after every question so work is never lost
+        with open("eval_results.json", "w", encoding="utf-8") as f:
+            json.dump(all_results, f, indent=2)
+
+        time.sleep(3)  # Standard delay between questions
 
     print("\n" + "=" * 70)
     print(f"Done! Evaluated {len(all_results)} questions.")

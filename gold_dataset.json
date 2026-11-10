@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What steps must I follow to resolve a roommate conflict before a room change can be approved?",
+    "expected_doc": "handbook-room-changes"
+  },
+  {
+    "question": "What are the quiet hours on weekdays and weekends, and how do they change during finals?",
+    "expected_doc": "handbook-quiet-hours"
+  },
+  {
+    "question": "How long can an overnight guest stay, and whose permission or notification is required?",
+    "expected_doc": "handbook-overnight-guests"
+  },
+  {
+    "question": "Which students must live in college housing and have a dining plan, and what exceptions are listed?",
+    "expected_doc": "handbook-residency"
+  },
+  {
+    "question": "I locked myself out at 11 p.m. on Saturday. Who should I contact, and would that be different during weekday office hours?",
+    "expected_doc": "handbook-lockout"
+  },
+  {
+    "question": "I lost my room key. What steps do I need to take to get a replacement?",
+    "expected_doc": "handbook-lockout"
+  },
+  {
+    "question": "What should I do if I lose my student ID, and is the first replacement free?",
+    "expected_doc": "handbook-quiet-hours"
+  },
+  {
+    "question": "I paid the guest meal price because I forgot my ID. Can I get a refund?",
+    "expected_doc": "handbook-quiet-hours"
+  },
+  {
+    "question": "What must I do before parking in a campus Student Parking lot, and what happens if I leave a parking ticket unpaid for more than 30 days?",
+    "expected_doc": "handbook-vehicle-parking"
+  },
+  {
+    "question": "I am already living on campus for summer housing or an activity. When must I clear an Accounting/Enrollment hold, and what happens if I do not?",
+    "expected_doc": "handbook-account-holds"
+  },
+  {
+    "question": "I earned a D+ in a course. Can I repeat it, and which attempt counts toward my GPA and earned units?",
+    "expected_doc": "catalog-grading-policy"
+  },
+  {
+    "question": "Under what circumstances can I receive an incomplete grade?",
+    "expected_doc": "catalog-grading-policy"
+  },
+  {
+    "question": "How do I drop a course after the first week of classes but before the drop deadline?",
+    "expected_doc": "registrar-registration"
+  },
+  {
+    "question": "How many earned units do I need to graduate, and what minimum GPA is required overall and in my major?",
+    "expected_doc": "registrar-graduation-requirements"
+  },
+  {
+    "question": "How many units can a Data Science or Data Analytics major double-count toward another major or minor?",
+    "expected_doc": "catalog-data-science"
+  },
+  {
+    "question": "Can AP credit satisfy the writing or quantitative reasoning requirements, and how does that differ from transferring a college course?",
+    "expected_doc": "registrar-transfer-credits, registrar-graduation-requirements"
+  },
+  {
+    "question": "I want to take a course at another college to meet Beloit's quantitative reasoning requirement. What should I do before enrolling, and what minimum grade would make it eligible for transfer?",
+    "expected_doc": "registrar-transfer-credits"
+  },
+  {
+    "question": "I missed the normal drop deadline but am still earning a D. Can I request a WP, what documentation is needed, and will I receive credit?",
+    "expected_doc": "registrar-registration, catalog-grading-policy"
+  },
+  {
+    "question": "Which senior seminar is required for the Data Science major, and which Economics course is listed among the Economics major's required departmental courses?",
+    "expected_doc": "catalog-data-science, catalog-econ-requirements"
+  },
+  {
+    "question": "My roommate's guest has stayed four consecutive nights, and discussing it with my roommate has not helped. What do the guest rules say, and what should I do next about the conflict?",
+    "expected_doc": "handbook-overnight-guests, handbook-room-changes"
+  },
+  {
+    "question": "Can I bring a pet cat to campus housing, and would calling it an emotional support animal be enough?",
+    "expected_doc": "handbook-overnight-guests, handbook-emotional-support-animals"
+  },
+  {
+    "question": "What is my exact personal financial-aid award for next semester?",
+    "expected_doc": ""
+  },
+  {
+    "question": "Has my room-change request been approved, and which room have I been assigned?",
+    "expected_doc": ""
+  },
+  {
+    "question": "What grade am I currently earning in DSDA 310?",
+    "expected_doc": ""
+  },
+  {
+    "question": "Which students have reported my roommate for violating quiet hours?",
+    "expected_doc": ""
+  }
+]
