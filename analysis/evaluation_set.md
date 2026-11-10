@@ -8,7 +8,7 @@
 | **Quote Fidelity** | **18 of 25** | Returned quotes that verifiably exist in the source context chunk. |
 | **Correct Refusals** | **4 of 4** | Out-of-corpus/unanswerable questions correctly refused by the system. |
 | **Wrong Refusals** | **3 of 21** | Answerable questions incorrectly refused by the system. |
-| **Correctness** | **[X of 25]** | Generated answers matching the human gold key upon manual verification. |
+| **Correctness** | **22 of 25** | Generated answers matching the human gold key upon manual verification. |
 
 ---
 ## 2. Methodology & Scoring Decisions
