@@ -2,8 +2,6 @@
 
 We compared 250-word chunks with 200-word chunks, retrieving **three chunks in both versions**. 50 generated outputs are saved for 25 gold questions. We still need to finish our separate correctness scores before comparing accuracy.
 
-We originally tried changing the number of retrieved passages. After reading the metrics handout, we kept retrieval at three and compared chunk sizes instead. These results use only that final experiment; the earlier work is recorded in `ai_use_log.md`.
-
 ## Controlled setup
 
 Chunk size is the only setting we changed. Baseline: 250 words, 179 chunks. Candidate: 200 words, 235 chunks. Both use the same 23 frozen documents, 50-word overlap, three retrieved chunks, `text-embedding-005` document/query embeddings, `gemini-3.5-flash` answer model, prompt, response schema, temperature zero, and 25 gold questions. Both indexes exceed 150 chunks. The identical query embedding for a question is searched against the two separately chunked indexes.
