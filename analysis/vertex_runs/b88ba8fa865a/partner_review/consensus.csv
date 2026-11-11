@@ -1,51 +1,11 @@
-variant,question_id,consensus_score,resolution_notes,confirmed_by
-baseline,Q01,,,
-candidate,Q01,,,
-baseline,Q02,,,
-candidate,Q02,,,
-baseline,Q03,,,
-candidate,Q03,,,
-baseline,Q04,,,
-candidate,Q04,,,
-baseline,Q05,,,
-candidate,Q05,,,
-baseline,Q06,,,
-candidate,Q06,,,
-baseline,Q07,,,
-candidate,Q07,,,
-baseline,Q08,,,
-candidate,Q08,,,
-baseline,Q09,,,
-candidate,Q09,,,
-baseline,Q10,,,
-candidate,Q10,,,
-baseline,Q11,,,
-candidate,Q11,,,
-baseline,Q12,,,
-candidate,Q12,,,
-baseline,Q13,,,
-candidate,Q13,,,
-baseline,Q14,,,
-candidate,Q14,,,
-baseline,Q15,,,
-candidate,Q15,,,
-baseline,Q16,,,
-candidate,Q16,,,
-baseline,Q17,,,
-candidate,Q17,,,
-baseline,Q18,,,
-candidate,Q18,,,
-baseline,Q19,,,
-candidate,Q19,,,
-baseline,Q20,,,
-candidate,Q20,,,
-baseline,Q21,,,
-candidate,Q21,,,
-baseline,Q22,,,
-candidate,Q22,,,
-baseline,Q23,,,
-candidate,Q23,,,
-baseline,Q24,,,
-candidate,Q24,,,
-baseline,Q25,,,
-candidate,Q25,,,
+## Comparing our scores
+
+We scored the generated answers independently using 1 for correct and 0 for incorrect.
+We compared our scores and discussed any disagreements, checking the expected answer and supporting evidence before agreeing on a final score.
+
+For each disagreement (if have), record:
+- Question ID and chunk size:
+- Mai’s score:
+- Parker’s score:
+- Final agreed score:
+- Reason for the decision:
