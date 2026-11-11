@@ -1,8 +1,7 @@
-# Ingestion plan
-
+# RAG for Beloit College's Documents
 ## Who the system is for
 
-Our user is a current Beloit student trying to understand academic requirements and everyday residential policies. We focused on registration, graduation, transfer credit, grading, selected majors, financial aid, housing, guests, keys, parking, and student conduct. The system uses public policies. It cannot tell a student their personal award amount, grade, room assignment, or the outcome of a complaint.
+Our user is a current Beloit student and whoever trying to understand academic requirements and everyday residential policies. We focused on registration, graduation, transfer credit, grading, selected majors, financial aid, housing, guests, keys, parking, and student conduct. The system uses public policies. It cannot tell a student their personal award amount, grade, room assignment, or the outcome of a complaint.
 
 ## Choosing and saving the documents
 
