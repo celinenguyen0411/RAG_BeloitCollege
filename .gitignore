@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+.embeddings.npz
+
+.embeddings_*.npz
+pipeline_executed.ipynb

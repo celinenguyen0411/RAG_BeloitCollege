@@ -1,40 +1,4 @@
-#!/usr/bin/env python3
-"""
-DSDA 310 - Project 2 corpus ingestion.
 
-Turns a list of Beloit web pages and PDF sections into one clean text file per
-DOCUMENT, with a header saying where each one came from.
-
-    pip install requests trafilatura pypdf
-    python beloit_ingest.py --check     # fetch, extract, show a sample of each
-    python beloit_ingest.py             # fetch and write corpus/
-
-ONE ROW IN documents.csv IS ONE DOCUMENT, NOT ONE FILE.
-A document is one thing retrieval can return: a single policy, a single program
-description, a single procedure. The student handbook is one PDF and roughly forty
-documents. Four source files can easily be forty rows. A pair that ingests the
-handbook as a single row builds a system where every question returns the whole
-handbook.
-
-Raw downloads are cached in raw/. After the first run everyone on your team works
-from that snapshot, so a page edited mid-project cannot silently change your results.
-Commit raw/ and corpus/ to your repository.
-
-documents.csv columns:
-    id      short slug, becomes the filename, e.g. handbook-academic-honesty
-    kind    html | pdf
-    url     the address to fetch, or a local path to a file you downloaded by hand
-    title   human-readable title
-    pages   PDF only, e.g. 41-58 . Blank means the whole file, which is almost
-            never what you want for a long PDF.
-
-------------------------------------------------------------------------------
-NOTE: text_from_pdf() is now written. It extracts the requested pages and nothing
-else. It does NOT remove running headers, page numbers or repeated footers - that
-text is still in what you get back, and finding it is your job. Run --check and
-read every extraction.
-------------------------------------------------------------------------------
-"""
 import argparse, csv, datetime, hashlib, io, os, re, sys, time
 from pathlib import Path
 
