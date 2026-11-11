@@ -1,6 +1,6 @@
 # Gold evaluation set
 
-25 questions: 21 answerable and 4 unanswerable. IDs refer to frozen corpus filenames. Evidence is transcribed with Unicode ligatures and whitespace normalized; its wording is checked against the corpus. Drafted with AI assistance and programmatically checked for provenance; partner verification remains required. Q19–Q21 require multiple documents. Q07–Q08 accept either student-ID or quiet-hours as equivalent evidence sources.
+25 questions: 21 answerable and 4 unanswerable
 
 ## Required evaluation metrics
 
