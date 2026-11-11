@@ -94,9 +94,3 @@ jupyter nbconvert --to notebook --execute pipeline.ipynb --output pipeline_execu
 | `ai_use_log.md` | How AI was used and how its output was checked |
 
 The extractor and original Vertex pipeline were provided by the instructor. `pipeline.py` is kept unchanged as the reference. Our working implementation is `rag_pipeline.py`, which the notebook and evaluator import. The AI-use log records earlier experiments and how AI helped with the work. Before submitting, we need to check the expected answers, finish our separate scores, discuss disagreements, and update the reports.
-
-## Older evaluation files
-
-Parker's earlier evaluation uses `gold_dataset.json`, `eval_results.json`, `eval_for_grading.csv`, and `evaluate_metrics.py`. These files are kept separately from the final chunk-size comparison. The older grading sheet already has scores; those scores are not copied into the final independent partner sheets. Running `python evaluate_metrics.py` is read-only; `--write-csv` refreshes its automatic fields while preserving matching scores.
-
-The final run uses the implementation now in `rag_pipeline.py`. We moved it out of the instructor’s reference file without changing its calculations. The run folder records this in `implementation_provenance.json`. New runs are saved separately, so they do not replace the results reported here.
