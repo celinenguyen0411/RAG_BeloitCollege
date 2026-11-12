@@ -1,0 +1,302 @@
+[
+  {
+    "variant": "baseline",
+    "question_id": "Q01",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q01",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q02",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q02",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q03",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q03",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q04",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q04",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q05",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q05",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q06",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q06",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q07",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q07",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q08",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q08",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q09",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q09",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q10",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q10",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q11",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q11",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q12",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q12",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q13",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q13",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q14",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q14",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q15",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q15",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q16",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q16",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q17",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q17",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q18",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q18",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q19",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q19",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q20",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q20",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q21",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q21",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q22",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q22",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q23",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q23",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q24",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q24",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "baseline",
+    "question_id": "Q25",
+    "correct": null,
+    "status": "pending independent scores"
+  },
+  {
+    "variant": "candidate",
+    "question_id": "Q25",
+    "correct": null,
+    "status": "pending independent scores"
+  }
+]

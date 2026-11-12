@@ -1,3 +1,4 @@
+# AI Use Log
 ## 2026-11-07 — Codex notebook implementation
 
 - Tool/task: Codex read the project instructions, inspected the existing corpus and question files, and drafted the end-to-end `pipeline.ipynb` plus reproduction instructions.
@@ -25,7 +26,7 @@
 - Purpose: Help troubleshoot coding with extracting gold question dataset into the pipeline to read and process them properly.
 - Verification: Ran code with no inputted question.It ran the gold_dataset.json and in the terminal produced an output that it processed each question.
 
-## 2026-11-11 - Adapting starter evaluation script into evaluate_metrics.py
+## 2026-11-11 - Getting evaluation metrics code working
 - AI used: Gemini
-- Purpose: Adapt the starter evaluation code snippet to read `eval_results.json` offline, map pipeline JSON keys (`retrieved`, `quote_verified`), export `eval_for_grading.csv` for manual scoring, and calculate fractional metrics.
-- Verification: Ran `python evaluate_metrics.py` in the terminal; verified `eval_for_grading.csv` was created and all four automated metrics printed as fractions ("X of Y") without errors.
+- Purpose: Helped debug the starter evaluation code so it actually runs and calculates the metrics as fractions.
+- Verification: Ran `python evaluate_metrics.py` in the terminal and checked that `eval_for_grading.csv` generated and all four automated metrics printed out as fractions without errors.

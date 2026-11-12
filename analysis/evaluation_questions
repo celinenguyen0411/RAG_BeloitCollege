@@ -1,3 +1,7 @@
+# Working question draft
+
+These are my 25 draft questions, with the expected answers, source IDs, and supporting passages. The final evaluator reads `analysis/evaluation_set.json`; this file keeps the draft for reference. The questions and answers below have not been changed in this wording pass.
+
 1. Resolving a roommate conflict
 Question: What steps must I follow to resolve a roommate conflict before a room change can be approved?
 Expected answer: Speak directly with your roommate first. If that does not resolve the conflict, contact your RA for mediation, then your Residence Life Coordinator. A room change may occur if the problem remains unresolved and space is available. Residence Life must approve the change.

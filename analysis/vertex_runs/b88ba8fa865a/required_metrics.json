@@ -1,0 +1,80 @@
+[
+  {
+    "variant": "baseline",
+    "chunk_words": 250,
+    "k": 3,
+    "questions": 25,
+    "generated_answers": 25,
+    "api_errors": 0,
+    "hit_rate": {
+      "numerator": 21,
+      "denominator": 21
+    },
+    "quote_fidelity": {
+      "numerator": 19,
+      "denominator": 19
+    },
+    "quote_fidelity_all_questions": {
+      "numerator": 19,
+      "denominator": 25
+    },
+    "individual_quote_matches": {
+      "numerator": 57,
+      "denominator": 57
+    },
+    "correctness": {
+      "numerator": null,
+      "denominator": 25,
+      "scored_questions": 0,
+      "correct_among_scored": 0,
+      "status": "pending partner scoring or reconciliation"
+    },
+    "correct_refusals": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "wrong_refusals": {
+      "numerator": 2,
+      "denominator": 21
+    }
+  },
+  {
+    "variant": "candidate",
+    "chunk_words": 200,
+    "k": 3,
+    "questions": 25,
+    "generated_answers": 25,
+    "api_errors": 0,
+    "hit_rate": {
+      "numerator": 21,
+      "denominator": 21
+    },
+    "quote_fidelity": {
+      "numerator": 18,
+      "denominator": 18
+    },
+    "quote_fidelity_all_questions": {
+      "numerator": 18,
+      "denominator": 25
+    },
+    "individual_quote_matches": {
+      "numerator": 52,
+      "denominator": 52
+    },
+    "correctness": {
+      "numerator": null,
+      "denominator": 25,
+      "scored_questions": 0,
+      "correct_among_scored": 0,
+      "status": "pending partner scoring or reconciliation"
+    },
+    "correct_refusals": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "wrong_refusals": {
+      "numerator": 3,
+      "denominator": 21
+    }
+  }
+]

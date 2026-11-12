@@ -1,0 +1,35 @@
+{
+  "provider": "Vertex AI",
+  "project": "dsda310-project2",
+  "embedding_model": "text-embedding-005",
+  "answer_model": "gemini-3.5-flash",
+  "embedding_region": "us-central1",
+  "answer_region": "global",
+  "overlap_words": 50,
+  "k": 3,
+  "temperature": 0,
+  "document_count": 23,
+  "experiment": "chunk_words: 250 vs 200; k=3 fixed",
+  "conditions": {
+    "baseline": {
+      "chunk_words": 250,
+      "chunk_count": 179,
+      "fingerprint": "7b23b745c407ece5b2511401edc00192400c520b"
+    },
+    "candidate": {
+      "chunk_words": 200,
+      "chunk_count": 235,
+      "fingerprint": "29c8446065f81b54d4a366bf025542a117441f52"
+    }
+  },
+  "retrieval_only": false,
+  "gold_sha256": "816d6b41798e231bb0286038963505e271950508f5848d669afcd1a74f77a32b",
+  "pipeline_sha256": "e6501c9b7be3b1f608902d836ef787f4e6a343649504f4e76c6fe3c4e63197c8",
+  "evaluation_sha256": "a4a9cda05167df554af6f53102bad8c5c783db47ff1f5b65bedef8db88fd6cb7",
+  "versions": {
+    "google-genai": "2.34.0",
+    "numpy": "2.5.4",
+    "google-auth": "2.62.2"
+  },
+  "last_attempt_utc": "2026-11-11T18:05:57.615204+00:00"
+}

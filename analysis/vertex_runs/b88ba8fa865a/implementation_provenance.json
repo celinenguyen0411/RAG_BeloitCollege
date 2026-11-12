@@ -1,0 +1,11 @@
+{
+  "original_run_source": "pipeline.py",
+  "current_source": "rag_pipeline.py",
+  "saved_run_source_sha256": "e6501c9b7be3b1f608902d836ef787f4e6a343649504f4e76c6fe3c4e63197c8",
+  "current_source_sha256": "c08aad5a309344bb1f8ac8f32f9be28010a6b774ab60e9a24791a5519976d24b",
+  "executable_ast_matches_saved_run": true,
+  "changes": "Moved to a separate module to preserve the instructor pipeline.py; only example command names in the docstring changed.",
+  "original_settings_unchanged": true,
+  "saved_evaluator_sha256": "a4a9cda05167df554af6f53102bad8c5c783db47ff1f5b65bedef8db88fd6cb7",
+  "evaluator_changes": "Import rag_pipeline instead of pipeline; record rag_pipeline.py in new-run fingerprints. No saved answers or experiment settings were rewritten."
+}

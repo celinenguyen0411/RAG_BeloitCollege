@@ -1,82 +1,83 @@
+"""Report the older single-run evaluation without changing existing grades.
+
+The final chunk-size comparison uses scripts/build_reports.py instead.
+Use --write-csv only when you want to refresh the older grading sheet.
+"""
+import argparse
+import csv
 import json
-import pandas as pd
+import re
+from pathlib import Path
+ROOT = Path(__file__).resolve().parent
 
 
 def norm(s):
-    return " ".join((s or "").lower().split())
+    return ' '.join((s or '').lower().split())
 
 
-def load_and_prepare_eval():
-    with open("eval_results.json", "r", encoding="utf-8") as f:
-        results = json.load(f)
+def verify_source_quote(out):
+    """Search only the claimed retrieved passage, never the question or whole prompt."""
+    quote = norm(out.get('quote'))
+    source = (out.get('source') or '').strip().strip('[]')
+    retrieved = {str(item[0]) for item in out.get('retrieved', [])[:3]}
+    if not quote or not source or source not in retrieved:
+        return False
+    passages = dict(re.findall(
+        r'^\[([^\]\n]+)\]\s*\n(.*?)(?=^\[[^\]\n]+\]\s*\n|\n\nQUESTION:|\Z)',
+        out.get('prompt', ''), flags=re.M | re.S))
+    return source in passages and quote in norm(passages[source])
 
+
+def load_and_prepare_eval(results_path=None, grades_path=None):
+    results_path = Path(results_path) if results_path else ROOT / 'eval_results.json'
+    grades_path = Path(grades_path) if grades_path else ROOT / 'eval_for_grading.csv'
+    existing = {}
+    if grades_path.exists():
+        with grades_path.open(newline='') as f:
+            existing = {r['question']: r.get('correct', '') for r in csv.DictReader(f)}
     rows = []
-    for out in results:
-        q = out["question"]
-        expected_doc = out.get("expected_doc", "")
-
-        # Extract top-3 retrieved document names (removing chunk IDs/anchors if present)
-        retrieved_raw = [item[0] for item in out.get("retrieved", [])[:3]]
-        retrieved_docs = [r.split("#")[0].replace(".txt", "").strip() for r in retrieved_raw]
-
-        # Calculate Hit Rate: Check if expected doc(s) appear in top 3 retrieved chunks
-        if expected_doc:
-            expected_list = [d.strip() for d in expected_doc.split(",")]
-            # Hit is 1 if at least one expected doc is in retrieved top-3
-            hit = int(any(exp in retrieved_docs for exp in expected_list))
-        else:
-            hit = 0  # Unanswerable questions have no hit rate
-
-        # Quote fidelity check
-        quote = out.get("quote", "")
-        quote_verified = out.get("quote_verified", False)
-        quote_found = int(quote_verified or (norm(quote) != "" and norm(quote) in norm(out.get("prompt", "")))) if quote else 0
-
-        # Refusal check (answerable is False)
-        refused = int(out.get("answerable") is False)
-
-        rows.append({
-            "question": q,
-            "expected_doc": expected_doc,
-            "retrieved_top3": ", ".join(retrieved_docs),
-            "hit": hit,
-            "quote_found": quote_found,
-            "refused": refused,
-            "answerable": out.get("answerable"),
-            "answer": out.get("answer", ""),
-            "quote": quote,
-            "correct": None  # To be filled in manually (1 or 0)
-        })
-
-    df = pd.DataFrame(rows)
-    return df
+    for out in json.loads(results_path.read_text(encoding='utf-8')):
+        expected_doc = out.get('expected_doc', '')
+        retrieved = [item[0].split('#')[0].replace('.txt', '').strip()
+                     for item in out.get('retrieved', [])[:3]]
+        expected = [d.strip() for d in expected_doc.split(',') if d.strip()]
+        rows.append({'question': out['question'], 'expected_doc': expected_doc,
+                     'retrieved_top3': ', '.join(retrieved),
+                     'hit': int(any(d in retrieved for d in expected)),
+                     'quote_found': int(verify_source_quote(out)),
+                     'refused': int(out.get('answerable') is False),
+                     'answerable': out.get('answerable'), 'answer': out.get('answer', ''),
+                     'quote': out.get('quote', ''),
+                     'correct': existing.get(out['question'], '')})
+    return rows
 
 
-def print_metrics(df):
-    ans = df[df.expected_doc != ""]
-    unans = df[df.expected_doc == ""]
-
-    print("\n" + "=" * 50)
-    print("      RAG PIPELINE EVALUATION METRICS")
-    print("=" * 50)
-    print(f"Hit Rate:         {ans.hit.sum()} of {len(ans)}")
-    print(f"Quote Fidelity:   {df.quote_found.sum()} of {len(df)}")
-    print(f"Correct Refusals: {unans.refused.sum()} of {len(unans)}")
-    print(f"Wrong Refusals:   {ans.refused.sum()} of {len(ans)}")
-
-    if df["correct"].notnull().all():
-        print(f"Correctness:      {int(df.correct.sum())} of {len(df)}")
+def print_metrics(rows):
+    answerable = [r for r in rows if r['expected_doc']]
+    unavailable = [r for r in rows if not r['expected_doc']]
+    quoted = [r for r in rows if r['quote']]
+    print('Older single-run evaluation; not the final chunk-size comparison.')
+    print('Hit rate:', sum(r['hit'] for r in answerable), 'of', len(answerable))
+    print('Quote fidelity (quoted answers):', sum(r['quote_found'] for r in quoted), 'of', len(quoted))
+    print('Verified-quote answers (all questions):', sum(r['quote_found'] for r in rows), 'of', len(rows))
+    print('Correct refusals:', sum(r['refused'] for r in unavailable), 'of', len(unavailable))
+    print('Wrong refusals:', sum(r['refused'] for r in answerable), 'of', len(answerable))
+    scored = [r for r in rows if str(r['correct']).strip() in ['0', '1']]
+    if len(scored) == len(rows):
+        print('Correctness (existing older scores):', sum(int(r['correct']) for r in scored), 'of', len(rows))
     else:
-        unscored = df["correct"].isnull().sum()
-        print(f"Correctness:      PENDING ({unscored} questions left to score manually)")
-    print("=" * 50 + "\n")
+        print('Correctness pending:', len(scored), 'of', len(rows), 'scored')
+    print('The final comparison still requires separate Mai/Parker scores and reconciliation.')
 
 
-if __name__ == "__main__":
-    df = load_and_prepare_eval()
-
-    # Save to CSV for easy manual correctness scoring
-    df.to_csv("eval_for_grading.csv", index=False)
-    print("Saved 'eval_for_grading.csv'. Open it to fill in the 'correct' column (1 or 0).")
-
-    print_metrics(df)
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--write-csv', action='store_true', help='refresh the older sheet, preserving matching scores')
+    args = parser.parse_args()
+    rows = load_and_prepare_eval()
+    print_metrics(rows)
+    if args.write_csv and rows:
+        with (ROOT / 'eval_for_grading.csv').open('w', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=list(rows[0]))
+            writer.writeheader(); writer.writerows(rows)
+        print('Updated older grading sheet; matching existing scores were preserved.')
