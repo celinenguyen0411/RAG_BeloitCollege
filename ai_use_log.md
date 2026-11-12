@@ -19,3 +19,13 @@
 - Finding: The user's diagnostic response contains corrupted control characters inside the model-written quote. Unicode normalization cannot reconstruct those characters reliably. The earlier normalization fix did not resolve the reported failure.
 - Change: Python numbers source sentences; OpenAI selects evidence IDs constrained by an enum. Python copies the corresponding original sentences directly into evidence. No fuzzy quote matching or automatic acceptance of untraceable quotes is used.
 - Verification: Ran the complete generation function with a simulated API response and actual room-change corpus text. Selected sentences were returned as exact source substrings. Unknown IDs and absent evidence were rejected; refusal was retained. All notebook code cells pass syntax checks. Live API behavior was not tested in this change.
+
+## 2026-11-06 - Implementing gold dataset into pipeline
+- AI used: Gemini
+- Purpose: Help troubleshoot coding with extracting gold question dataset into the pipeline to read and process them properly.
+- Verification: Ran code with no inputted question.It ran the gold_dataset.json and in the terminal produced an output that it processed each question.
+
+## 2026-11-11 - Adapting starter evaluation script into evaluate_metrics.py
+- AI used: Gemini
+- Purpose: Adapt the starter evaluation code snippet to read `eval_results.json` offline, map pipeline JSON keys (`retrieved`, `quote_verified`), export `eval_for_grading.csv` for manual scoring, and calculate fractional metrics.
+- Verification: Ran `python evaluate_metrics.py` in the terminal; verified `eval_for_grading.csv` was created and all four automated metrics printed as fractions ("X of Y") without errors.
