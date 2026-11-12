@@ -16,7 +16,7 @@ The run is `analysis/vertex_runs/b88ba8fa865a`. `settings.json` records package 
 |---|---|---|
 | Hit rate | 21 of 21 | 21 of 21 |
 | Quote fidelity — quoted answers | 19 of 19 | 18 of 18 |
-| Correctness — both partners | Pending (0 of 25 scored and settled) | Pending (0 of 25 scored and settled) |
+| Correctness — both partners | 19 of 25 | 18 of 25 |
 | Correct refusals | 4 of 4 | 4 of 4 |
 | Wrong refusals | 2 of 21 | 3 of 21 |
 

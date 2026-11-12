@@ -360,33 +360,18 @@ def main():
     print(f"\n--- Running Pipeline on {len(gold_dataset)} Gold Questions ---")
     all_results = []
 
-    for i, item in enumerate(gold_dataset, 1):
-        q = item["question"]
-        expected_doc = item.get("expected_doc", "")
-
-        print(f"\n[{i}/{len(gold_dataset)}] Processing: {q}")
+# Direct continuous loop (no time.sleep)
+    for idx, item in enumerate(gold_dataset, 1):
+        q_text = item["question"] if isinstance(item, dict) and "question" in item else item
+        print(f"[{idx}/{len(gold_dataset)}] Processing: {q_text}")
         
-        # Retry loop inside main keeps professor's generate() untouched
-        while True:
-            try:
-                out = answer_question(embed_client, chat_client, matrix, texts, sources, q, args.k)
-                break
-            except Exception as e:
-                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                    print("  [Rate Limit 429] Waiting 15s for quota window to reset...")
-                    time.sleep(15)
-                else:
-                    raise e
+        result = answer_question(embed_client, chat_client, matrix, texts, sources, q_text, args.k)
+        all_results.append(result)
 
-        out["expected_doc"] = expected_doc
-        all_results.append(out)
-
-        # Save progress after every question so work is never lost
-        with open("eval_results.json", "w", encoding="utf-8") as f:
-            json.dump(all_results, f, indent=2)
-
-        time.sleep(3)  # Standard delay between questions
-
+    # Save outputs to file
+    with open("eval_results.json", "w", encoding="utf-8") as f:
+        json.dump(all_results, f, indent=2)
+    
     print("\n" + "=" * 70)
     print(f"Done! Evaluated {len(all_results)} questions.")
     print("Results saved to 'eval_results.json'")
