@@ -1,5 +1,7 @@
 # Beloit College AI assistant
 
+Link to slideshow presentaion: https://docs.google.com/presentation/d/1Rifh9bH_yOFkrLE-P7X70OOB6-6JmeJemp4n8Z8Mnyc/edit?usp=sharing
+
 We built this project to help current Beloit students find answers to academic and housing questions. It searches our saved documents and uses Vertex AI to write an answer from the passages it finds. Each answer includes the source text so the reader can check it. When the evidence is missing, the system should say it cannot answer.
 
 We use 23 documents from the student handbook, course catalog, and registrar pages. These explain general policies; they do not contain personal grades, financial-aid awards, or room assignments.
